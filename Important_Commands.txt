@@ -1,0 +1,63 @@
+# Important commands :
+========================
+
+>> npm install -g create-react-app
+
+This command installs "create-react-app" package in your system. Using this package 
+we can create react applications.
+
+-------------------------------------------------------------------------------------
+
+>> npx create-react-app my_app_n1
+
+This command doesn't install "create-react-app" package. It just borrows it and 
+creates a react app named "my_app_n1". So, it is better.
+
+-----------------------------------------------------------------------------------------------
+
+JSX is similar to html. We just have to replace 'class' with 'className', 'for' with 'htmlFor'
+and 'tabindex' to 'tabIndex'.
+
+-----------------------------------------------------------------------------------------------
+
+'node_modules' is folder containing all the packages required to develop a react app.
+We can delete 'node_modules' and package-lock.json. Using a command, we can regenerate this folder and package-lock.json. So, when
+we give our react app to someone, we give them the app without 'node_modules' folder and package-lock.json.
+
+The command used to regenerate 'node_modules' :
+>> npm install
+or,
+>> npm i
+
+While regenerating 'node_modules', we need package.json.
+They contain information about packages to be installed.
+-----------------------------------------------------------------------------------------------
+
+How to copy a react app ?
+
+1. Copy the folder and paste it wherever u want.
+2. Rename it.
+3. Open package.json and change:
+	{
+		"name": "my-react-app-v2"
+	}
+	
+4. Update app title (browser tab name)
+   Edit public/index.html
+   <title>My React App V2</title>
+   
+5. Delete these inside the copied project:
+   node_modules/
+   package-lock.json   (or yarn.lock / pnpm-lock.yaml)
+   
+6. Then execute this command:
+   >> npm install
+   or,
+   >> npm i
+
+
+
+
+
+
+
