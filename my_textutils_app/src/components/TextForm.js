@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-export default function TextForm({ heading = "Enter text", mode }) {
+export default function TextForm({ heading = "Enter text", mode, showAlert }) {
   // function declaration
   //default prop value
 
@@ -34,6 +34,9 @@ export default function TextForm({ heading = "Enter text", mode }) {
     let newText = document.getElementById("myBox");
     newText.select();
     navigator.clipboard.writeText(newText.value);
+    if (newText.value !== "") {
+      showAlert("success", "Text copied to clipboard!");
+    }
   };
 
   let darkStyle = {
