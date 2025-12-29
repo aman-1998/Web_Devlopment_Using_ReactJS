@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-close-size {
+  transform: scale(0.7);   /* try 0.6 – 0.8 */
+}
+
+/* DARK MODE arrow */
+.dark-mode .accordion-button::after {
+  filter: invert(1);
+}
+
+/* LIGHT MODE arrow */
+.light-mode .accordion-button::after {
+  filter: invert(0);
+}
+
+/* Keep arrow color same when expanded */
+.dark-mode .accordion-button:not(.collapsed)::after {
+  filter: invert(1);
+}
+
+.light-mode .accordion-button:not(.collapsed)::after {
+  filter: invert(0);
+}
+

@@ -67,19 +67,19 @@ export default function TextForm({ heading = "Enter text", mode, showAlert }) {
               rows="7"
             ></textarea>
           </div>
-          <button className="btn btn-primary mx-2" onClick={handleUpperOnClick}>
+          <button className="btn btn-primary mx-2 my-2" onClick={handleUpperOnClick}>
             Convert to Uppercase
           </button>
-          <button className="btn btn-primary mx-2" onClick={handleLowerOnClick}>
+          <button className="btn btn-primary mx-2 my-2" onClick={handleLowerOnClick}>
             Convert to Lowercase
           </button>
-          <button className="btn btn-primary mx-2" onClick={handleExtraSpacesOnClick}>
+          <button className="btn btn-primary mx-2 my-2" onClick={handleExtraSpacesOnClick}>
             Remove Extra Spaces
           </button>
-          <button className="btn btn-primary mx-2" onClick={handleClearOnClick}>
+          <button className="btn btn-primary mx-2 my-2" onClick={handleClearOnClick}>
             Clear
           </button>
-          <button className="btn btn-primary mx-2" onClick={handleCopyOnClick}>
+          <button className="btn btn-primary mx-2 my-2" onClick={handleCopyOnClick}>
             Copy
           </button>
         </div>

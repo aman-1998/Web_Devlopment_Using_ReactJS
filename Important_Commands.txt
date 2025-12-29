@@ -1,28 +1,75 @@
-# Important commands :
-========================
+# Intall nodeJS :
+===================
+
+Install nodeJs : https://nodejs.org/en/download
+
+PS C:\Users\Dell> node -v
+v20.19.6
+PS C:\Users\Dell> npm -v
+10.8.2
+
+Note: Don't install latest as it may be have bugs. Install the version on 
+which LTS (Long Term Support) is mentioned.
 
 >> npm install -g create-react-app
 
-This command installs "create-react-app" package in your system. Using this package 
-we can create react applications.
+This command installs "create-react-app" package in your system. Using this 
+package we can create react applications.
 
--------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 >> npx create-react-app my_app_n1
 
-This command doesn't install "create-react-app" package. It just borrows it and 
-creates a react app named "my_app_n1". So, it is better.
+This command doesn't install "create-react-app" package. It just borrows it 
+and creates a react app named "my_app_n1". So, it is better.
+
+But this way of creating react app will install latest version of 
+react (latest CRA template). In my case react version installed is 19.2.3
+
+In package.json, there is a property "react-scripts": "5.0.1".
+react-scripts@5.0.1 is NOT compatible with React 19
+
+Initially, u won't see any issue. But when u will install react-router-dom
+using this command : >> npm install react-router-dom
+This will install latest version of react-router-dom. In my case it is v7.
+But react-router-dom ver7 is not compatible with react 19. So, routes won't
+work properly.
+
+So, in package.json, make following changes:
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"react-scripts": "5.0.1"
+
+And then execute >> npm install
+
+So, we should install react-router-dom using this command:
+>> npm install react-router-dom@6
+
+This will install version 6.
+
+I found out latest stable versions are:
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"react-router-dom": "^6.30.2",
+"react-scripts": "5.0.1"
+
+Note: In reactJS, we can't blindly install packages using command
+>> npm install package-name (This command installs latest version)
+We should always install correct which is compatible with our react version.
+For eg., npm install package-name@version
+
+-----------------------------------------------------------------------------
+
+JSX is similar to html. We just have to replace 'class' with 'className', 
+'for' with 'htmlFor' and 'tabindex' to 'tabIndex'.
 
 -----------------------------------------------------------------------------------------------
 
-JSX is similar to html. We just have to replace 'class' with 'className', 'for' with 'htmlFor'
-and 'tabindex' to 'tabIndex'.
-
------------------------------------------------------------------------------------------------
-
-'node_modules' is folder containing all the packages required to develop a react app.
-We can delete 'node_modules' and package-lock.json. Using a command, we can regenerate this folder and package-lock.json. So, when
-we give our react app to someone, we give them the app without 'node_modules' folder and package-lock.json.
+'node_modules' is folder containing all the packages required to develop a 
+react app. We can delete 'node_modules' and package-lock.json. Using a 
+command, we can regenerate this folder and package-lock.json. So, when we 
+give our react app to someone, we give them the app without 'node_modules' 
+folder and package-lock.json.
 
 The command used to regenerate 'node_modules' :
 >> npm install
@@ -54,6 +101,20 @@ How to copy a react app ?
    >> npm install
    or,
    >> npm i
+     
+-----------------------------------------------------------------------------
+Install react router dom:
+
+>> npm install react-router-dom
+
+-----------------------------------------------------------------------------
+To clean npm cache:
+
+npm cache clean --force
+
+------------------------------------------------------------------------------
+
+
 
 
 

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Alert(props) {
   // type prop can be 'success', 'danger', 'warning', 'info', etc.
-  
+
   const getAlert = (type) => {
     switch (type) {
       case "success":
@@ -100,21 +100,22 @@ export default function Alert(props) {
   }
 
   return (
-      <div
-        className={`alert alert-${props.alert.type} alert-dismissible fade show d-flex align-items-center`}
-        role="alert"
-      >
-        {getAlert(props.alert.type)}
+    <div
+      className={`alert alert-${props.alert.type} alert-dismissible fade show d-flex align-items-center`}
+      role="alert"
+      style={{ height: "40px", paddingRight: "0rem" }}
+    >
+      {getAlert(props.alert.type)}
 
-        <div className="flex-grow-1">{props.alert.message}</div>
+      <div className="flex-grow-1">{props.alert.message}</div>
 
-        <button
-          type="button"
-          className="btn-close"
-          data-bs-dismiss="alert"
-          aria-label="Close"
-          onClick={props.clearAlert}
-        />
-      </div>
+      <button
+        type="button"
+        className="btn-close position-static align-self-center btn-close-size"
+        aria-label="Close"
+        onClick={props.clearAlert}
+      />
+      
+    </div>
   );
 }
