@@ -3,8 +3,17 @@ import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 
 export default function Navbar(props) {
+  const colorPalettes = [
+    { name: "red", color: "#dc3545" },
+    { name: "yellow", color: "#ffc107" },
+    { name: "blue", color: "#0d6efd" },
+    { name: "green", color: "#198754" }
+  ];
+
   return (
-    <nav className={`navbar navbar-expand-lg navbar-${props.mode} bg-${props.mode}`}>
+    <nav
+      className={`navbar navbar-expand-lg navbar-${props.mode} bg-${props.mode}`}
+    >
       <div className="container-fluid">
         <Link className="navbar-brand" to="/">
           {props.appName}
@@ -33,7 +42,20 @@ export default function Navbar(props) {
               </Link>
             </li>
           </ul>
-          <div className={`form-check form-switch text-${props.mode === "light" ? "dark" : "light"}`}>
+          <div className="d-flex mx-2">
+            {colorPalettes.map((palette) => (
+              <div
+                key={palette.name}
+                className="rounded mx-1 palette-box"
+                style={{ backgroundColor: palette.color }}
+                title={palette.name}
+                onClick={() => props.changeColor(palette.color)}
+              />
+            ))}
+          </div>
+          <div
+            className={`form-check form-switch text-${props.mode === "light" ? "dark" : "light"}`}
+          >
             <input
               className="form-check-input"
               type="checkbox"

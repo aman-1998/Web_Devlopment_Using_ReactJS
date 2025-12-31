@@ -62,3 +62,15 @@
   filter: invert(1);
 }
 
+.palette-box {
+  width: 23px;
+  height: 23px;
+  cursor: pointer;
+  border: 1px solid #ddd;
+}
+
+.palette-box:hover {
+  transform: scale(1.1);
+  border-color: #000;
+}
+

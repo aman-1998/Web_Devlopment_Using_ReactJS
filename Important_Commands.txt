@@ -110,10 +110,12 @@ Install react router dom:
 -----------------------------------------------------------------------------
 To clean npm cache:
 
-npm cache clean --force
+>> npm cache clean --force
 
 ------------------------------------------------------------------------------
+To build (for deployment):
 
+>> npm run build
 
 
 

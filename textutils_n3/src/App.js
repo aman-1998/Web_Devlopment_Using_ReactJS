@@ -7,17 +7,50 @@ import Alert from "./components/Alert";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
-  const [mode, setMode] = useState("light"); //whether dark mode is enabled or not
+
+  let blue = "#0d6efd";
+  let red = "#dc3545";
+  let yellow = "#ffc107";
+  let green = "#198754";
+
+  let darkBlue = "#22313dff";
+  let darkRed = "#3d2c2cff";
+  let darkYellow = "#555137ff";
+  let darkGreen = "#2c3b2cff";
+
+  const [mode, setMode] = useState("light"); // default mode is light
+  const [color, setColor] = useState(blue); // default color is blue
 
   const toggleMode = () => {
     if (mode === "light") {
       setMode("dark");
-      document.body.style.backgroundColor = "#042743";
-      //document.title = "TextUtils - Dark Mode";
+      if (color === blue) {
+        document.body.style.backgroundColor = darkBlue;
+      } else if (color === red) {
+        document.body.style.backgroundColor = darkRed;
+      } else if (color === yellow) {
+        document.body.style.backgroundColor = darkYellow;
+      } else {
+        document.body.style.backgroundColor = darkGreen;
+      }
     } else {
       setMode("light");
       document.body.style.backgroundColor = "white";
-      //document.title = "TextUtils - Light Mode";
+    }
+  };
+
+  const changeColor = (color) => {
+    setColor(color);
+    if (mode === "dark") {
+      if (color === blue) {
+        document.body.style.backgroundColor = darkBlue;
+      } else if (color === red) {
+        document.body.style.backgroundColor = darkRed;
+      } else if (color === yellow) {
+        document.body.style.backgroundColor = darkYellow;
+      } else {
+        document.body.style.backgroundColor = darkGreen;
+      }
     }
   };
 
@@ -57,6 +90,8 @@ function App() {
           aboutText="About Us"
           mode={mode}
           toggleMode={toggleMode}
+          color={color}
+          changeColor={changeColor}
         />
         <div style={{ height: "40px" }}>
           <Alert alert={alert} clearAlert={clearAlert} />
@@ -70,11 +105,12 @@ function App() {
                 <TextForm
                   heading="Try TextUtils - Enter text here"
                   mode={mode}
+                  color={color}
                   showAlert={showAlert}
                 />
               }
             />
-            <Route exact path="/about" element={<About mode={mode} />} />
+            <Route exact path="/about" element={<About mode={mode} color={color} />} />
           </Routes>
         </div>
       </Router>

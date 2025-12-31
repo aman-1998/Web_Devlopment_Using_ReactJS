@@ -1,14 +1,36 @@
 import React from "react";
 
 export default function About(props) {
+
+  let blue = "#0d6efd";
+  let red = "#dc3545";
+  let yellow = "#ffc107";
+  let green = "#198754";
+
   const darkStyle = {
     backgroundColor: "black",
     color: "white"
   };
+
   const lightStyle = {
     backgroundColor: "white",
     color: "black"
   };
+
+  let buttonStyle;
+
+  if (props.color === yellow) {
+    buttonStyle = {
+      backgroundColor: yellow,
+      color: "black",
+    };
+  } else {
+    buttonStyle = {
+      backgroundColor: props.color,
+      color: "white",
+    };
+  }
+
   return (
     <div className="container my-3" style={props.mode === "dark" ? {color : "white"} : {color : "black"}}>
       <h1 className="my-3">About Us</h1>
@@ -22,7 +44,7 @@ export default function About(props) {
               data-bs-target="#panelsStayOpen-collapseOne"
               aria-expanded="true"
               aria-controls="panelsStayOpen-collapseOne"
-              style={props.mode === "dark" ? {color : "white", backgroundColor: "#212529"} : {color : "white", backgroundColor: "#0d6efd"}}
+              style={props.mode === "dark" ? {color : "white", backgroundColor: "#212529"} : buttonStyle}
             >
               Accordion Item #1
             </button>
@@ -52,7 +74,7 @@ export default function About(props) {
               data-bs-target="#panelsStayOpen-collapseTwo"
               aria-expanded="false"
               aria-controls="panelsStayOpen-collapseTwo"
-              style={props.mode === "dark" ? {color : "white", backgroundColor: "#212529"} : {color : "white", backgroundColor: "#0d6efd"}}
+              style={props.mode === "dark" ? {color : "white", backgroundColor: "#212529"} : buttonStyle}
             >
               Accordion Item #2
             </button>
@@ -82,7 +104,7 @@ export default function About(props) {
               data-bs-target="#panelsStayOpen-collapseThree"
               aria-expanded="false"
               aria-controls="panelsStayOpen-collapseThree"
-              style={props.mode === "dark" ? {color : "white", backgroundColor: "#212529"} : {color : "white", backgroundColor: "#0d6efd"}}
+              style={props.mode === "dark" ? {color : "white", backgroundColor: "#212529"} : buttonStyle}
             >
               Accordion Item #3
             </button>
