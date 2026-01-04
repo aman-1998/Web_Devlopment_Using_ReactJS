@@ -7,7 +7,7 @@ export default function Navbar(props) {
     { name: "red", color: "#dc3545" },
     { name: "yellow", color: "#ffc107" },
     { name: "blue", color: "#0d6efd" },
-    { name: "green", color: "#198754" }
+    { name: "green", color: "#198754" },
   ];
 
   return (
@@ -15,8 +15,14 @@ export default function Navbar(props) {
       className={`navbar navbar-expand-lg navbar-${props.mode} bg-${props.mode}`}
     >
       <div className="container-fluid">
-        <Link className="navbar-brand" to="/">
-          {props.appName}
+        <Link className="navbar-brand d-flex align-items-center" to="/">
+          <img
+            src={`${process.env.PUBLIC_URL}/favicon.svg`}
+            alt="NewsHunt"
+            height="35"
+            className="me-2"
+          />
+          <span>{props.appName}</span>
         </Link>
         <button
           className="navbar-toggler"
@@ -36,12 +42,47 @@ export default function Navbar(props) {
                 Home
               </Link>
             </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Categories
+              </a>
+              <ul class="dropdown-menu">
+                <li>
+                  <a class="dropdown-item" href="#">
+                    Action
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="#">
+                    Another action
+                  </a>
+                </li>
+                <li>
+                  <hr class="dropdown-divider" />
+                </li>
+                <li>
+                  <a class="dropdown-item" href="#">
+                    Something else here
+                  </a>
+                </li>
+              </ul>
+            </li>
             <li className="nav-item">
               <Link className="nav-link" to="/about">
                 {props.aboutText}
               </Link>
             </li>
           </ul>
+          {/* <form className="d-flex" role="search">
+              <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+              <button className="btn btn-outline-success" type="submit">Search</button>
+            </form> */}
           <div className="d-flex mx-2">
             {colorPalettes.map((palette) => (
               <div
@@ -68,10 +109,6 @@ export default function Navbar(props) {
               {props.mode === "light" ? "Dark Mode" : "Light Mode"}
             </label>
           </div>
-          {/* <form className="d-flex" role="search">
-              <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-              <button className="btn btn-outline-success" type="submit">Search</button>
-            </form> */}
         </div>
       </div>
     </nav>

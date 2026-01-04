@@ -1,5 +1,5 @@
 # Intall nodeJS :
-===================
+==================
 
 Install nodeJs : https://nodejs.org/en/download
 
@@ -116,6 +116,10 @@ To clean npm cache:
 To build (for deployment):
 
 >> npm run build
+
+---------------------------------------------------------------------------
+
+Your API key is: 988bbb75c65049a6a61c1cb4a9808280
 
 
 
