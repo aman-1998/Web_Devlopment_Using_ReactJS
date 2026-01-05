@@ -57,7 +57,7 @@ export class App extends Component {
     return (
       <Router>
         <Navbar
-          appName="NewsHunt"
+          appName="News Hunt"
           aboutText="About Us"
           mode={this.state.mode}
           toggleMode={this.toggleMode}

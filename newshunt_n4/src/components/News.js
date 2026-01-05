@@ -120,6 +120,27 @@ export class News extends Component {
   render() {
     let { mode, color } = this.props;
 
+    let blue = "#0d6efd";
+    let red = "#dc3545";
+    let yellow = "#ffc107";
+    let green = "#198754";
+
+    let PaginationbuttonStyle;
+
+    if (color === yellow) {
+      PaginationbuttonStyle = {
+        backgroundColor: yellow,
+        color: "black",
+        borderColor: color
+      };
+    } else {
+      PaginationbuttonStyle = {
+        backgroundColor: color,
+        color: "white",
+        borderColor: color
+      };
+    }
+
     return (
       <div className="container my-3 my-4">
         <h2
@@ -144,6 +165,37 @@ export class News extends Component {
             );
           })}
         </div>
+        
+        <hr/>
+        <nav aria-label="...">
+          <ul class="pagination justify-content-center my-4">
+            <li class="page-item disabled">
+              <a class="page-link">
+              <span aria-hidden="true">&laquo; Previous</span>
+              </a>
+            </li>
+            <li class="page-item">
+              <a class="page-link" style={{ color: 'black' }} href="#">
+                1
+              </a>
+            </li>
+            <li class="page-item active">
+              <a class="page-link" href="#" style={PaginationbuttonStyle} aria-current="page">
+                2
+              </a>
+            </li>
+            <li class="page-item">
+              <a class="page-link" style={{ color: 'black' }} href="#">
+                3
+              </a>
+            </li>
+            <li class="page-item">
+              <a class="page-link" style={{ color: 'black' }} href="#">
+                <span aria-hidden="true">Next &raquo;</span>
+              </a>
+            </li>
+          </ul>
+        </nav>
       </div>
     );
   }

@@ -18,7 +18,7 @@ export default function Navbar(props) {
         <Link className="navbar-brand d-flex align-items-center" to="/">
           <img
             src={`${process.env.PUBLIC_URL}/favicon.svg`}
-            alt="NewsHunt"
+            alt="News Hunt"
             height="35"
             className="me-2"
           />
