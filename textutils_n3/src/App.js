@@ -7,7 +7,6 @@ import Alert from "./components/Alert";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
-
   let blue = "#0d6efd";
   let red = "#dc3545";
   let yellow = "#ffc107";
@@ -110,7 +109,11 @@ function App() {
                 />
               }
             />
-            <Route exact path="/about" element={<About mode={mode} color={color} />} />
+            <Route
+              exact
+              path="/about"
+              element={<About mode={mode} color={color} />}
+            />
           </Routes>
         </div>
       </Router>
