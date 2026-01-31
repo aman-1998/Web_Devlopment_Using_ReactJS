@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import NewsItem from "./NewsItem";
+import SpinnerLoading from "./SpinnerLoading";
 
 export class News extends Component {
   constructor(props) {
@@ -7,12 +8,10 @@ export class News extends Component {
     this.state = {
       articles: [],
       loading: false,
-      page: 1,
-      pageSize: 3,
+      page: 1
     };
   }
 
-  apiKey = "988bbb75c65049a6a61c1cb4a9808280";
   totalNumberOfPages = 0;
 
   async componentDidMount() {
@@ -22,12 +21,13 @@ export class News extends Component {
   fetchNews = async (page) => {
     this.setState({ loading: true });
 
-    let url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${this.apiKey}&page=${page}&pageSize=${this.state.pageSize}`;
+    let url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${this.props.apiKey}&page=${page}&pageSize=${this.props.pageSize}`;
+    this.setState({ loading: true });
     let data = await fetch(url);
     let parsedData = await data.json();
 
     this.totalNumberOfPages = Math.ceil(
-      parsedData.totalResults / this.state.pageSize
+      parsedData.totalResults / this.props.pageSize
     );
 
     this.setState({
@@ -94,9 +94,9 @@ export class News extends Component {
         >
           Top Headlines
         </h2>
-
+        {this.state.loading && <SpinnerLoading/>}
         <div className="row g-4">
-          {this.state.articles.map((element) => (
+          {!this.state.loading && this.state.articles.map((element) => (
             <div className="col-md-4 d-flex" key={element.url}>
               <NewsItem
                 title={element.title}

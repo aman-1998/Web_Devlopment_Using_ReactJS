@@ -64,7 +64,17 @@ export class App extends Component {
           changeColor={this.changeColor}
         />
         <Routes>
-          <Route path="/" element={<News mode={this.state.mode} color={this.state.color} />} />
+          <Route
+            path="/"
+            element={
+              <News
+                mode={this.state.mode}
+                color={this.state.color}
+                apiKey={"988bbb75c65049a6a61c1cb4a9808280"}
+                pageSize={6}
+              />
+            }
+          />
           <Route
             path="/about"
             element={<About mode={this.state.mode} color={this.state.color} />}
