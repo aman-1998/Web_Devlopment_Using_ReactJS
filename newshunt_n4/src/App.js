@@ -4,8 +4,21 @@ import News from "./components/News";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import PropTypes from "prop-types";
 
 export class App extends Component {
+  static defaultProps = {
+    country: "in",
+    pageSize: 9,
+    category: "general",
+  };
+
+  static propTypes = {
+    country: PropTypes.string,
+    pageSize: PropTypes.number,
+    category: PropTypes.string,
+  };
+
   constructor() {
     super();
 
@@ -64,18 +77,119 @@ export class App extends Component {
           changeColor={this.changeColor}
         />
         <Routes>
-          <Route
+          <Route exact
             path="/"
             element={
               <News
+                key="general"
                 mode={this.state.mode}
                 color={this.state.color}
                 apiKey={"988bbb75c65049a6a61c1cb4a9808280"}
+                country={"us"}
+                category={"general"}
                 pageSize={6}
               />
             }
           />
-          <Route
+          <Route exact
+            path="/business"
+            element={
+              <News
+                key="business"
+                mode={this.state.mode}
+                color={this.state.color}
+                apiKey={"988bbb75c65049a6a61c1cb4a9808280"}
+                country={"us"}
+                category={"business"}
+                pageSize={6}
+              />
+            }
+          />
+          <Route exact
+            path="/entertainment"
+            element={
+              <News
+                key="entertainment"
+                mode={this.state.mode}
+                color={this.state.color}
+                apiKey={"988bbb75c65049a6a61c1cb4a9808280"}
+                country={"us"}
+                category={"entertainment"}
+                pageSize={6}
+              />
+            }
+          />
+          <Route exact
+            path="/general"
+            element={
+              <News
+                key="general"
+                mode={this.state.mode}
+                color={this.state.color}
+                apiKey={"988bbb75c65049a6a61c1cb4a9808280"}
+                country={"us"}
+                category={"general"}
+                pageSize={6}
+              />
+            }
+          />
+          <Route exact
+            path="/health"
+            element={
+              <News
+                key="health"
+                mode={this.state.mode}
+                color={this.state.color}
+                apiKey={"988bbb75c65049a6a61c1cb4a9808280"}
+                country={"us"}
+                category={"health"}
+                pageSize={6}
+              />
+            }
+          />
+          <Route exact
+            path="/science"
+            element={
+              <News
+                key="science"
+                mode={this.state.mode}
+                color={this.state.color}
+                apiKey={"988bbb75c65049a6a61c1cb4a9808280"}
+                country={"us"}
+                category={"science"}
+                pageSize={6}
+              />
+            }
+          />
+          <Route exact
+            path="/sports"
+            element={
+              <News
+                key="sports"
+                mode={this.state.mode}
+                color={this.state.color}
+                apiKey={"988bbb75c65049a6a61c1cb4a9808280"}
+                country={"us"}
+                category={"sports"}
+                pageSize={6}
+              />
+            }
+          />
+          <Route exact
+            path="/technology"
+            element={
+              <News
+                key="technology"
+                mode={this.state.mode}
+                color={this.state.color}
+                apiKey={"988bbb75c65049a6a61c1cb4a9808280"}
+                country={"us"}
+                category={"technology"}
+                pageSize={6}
+              />
+            }
+          />
+          <Route exact
             path="/about"
             element={<About mode={this.state.mode} color={this.state.color} />}
           />

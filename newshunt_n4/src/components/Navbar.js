@@ -42,9 +42,9 @@ export default function Navbar(props) {
                 Home
               </Link>
             </li>
-            <li class="nav-item dropdown">
+            <li className="nav-item dropdown">
               <a
-                class="nav-link dropdown-toggle"
+                className="nav-link dropdown-toggle"
                 href="#"
                 role="button"
                 data-bs-toggle="dropdown"
@@ -52,24 +52,59 @@ export default function Navbar(props) {
               >
                 Categories
               </a>
-              <ul class="dropdown-menu">
+              <ul className="dropdown-menu">
                 <li>
-                  <a class="dropdown-item" href="#">
-                    Action
-                  </a>
+                  <Link className="dropdown-item" to="/business">
+                    Business
+                  </Link>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="#">
-                    Another action
-                  </a>
+                  <hr className="dropdown-divider" />
                 </li>
                 <li>
-                  <hr class="dropdown-divider" />
+                  <Link className="dropdown-item" to="/entertainment">
+                    Entertainment
+                  </Link>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="#">
-                    Something else here
-                  </a>
+                  <hr className="dropdown-divider" />
+                </li>
+                <li>
+                  <Link className="dropdown-item" to="/general">
+                    General
+                  </Link>
+                </li>
+                <li>
+                  <hr className="dropdown-divider" />
+                </li>
+                <li>
+                  <Link className="dropdown-item" to="/health">
+                    Health
+                  </Link>
+                </li>
+                <li>
+                  <hr className="dropdown-divider" />
+                </li>
+                <li>
+                  <Link className="dropdown-item" to="/science">
+                    Science
+                  </Link>
+                </li>
+                <li>
+                  <hr className="dropdown-divider" />
+                </li>
+                <li>
+                  <Link className="dropdown-item" to="/sports">
+                    Sports
+                  </Link>
+                </li>
+                <li>
+                  <hr className="dropdown-divider" />
+                </li>
+                <li>
+                  <Link className="dropdown-item" to="/technology">
+                    Technology
+                  </Link>
                 </li>
               </ul>
             </li>

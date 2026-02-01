@@ -1,1176 +1,240 @@
 {
     "status": "ok",
-    "totalResults": 228,
+    "totalResults": 31,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "Xataka.com"
+                "name": "The Virginian-Pilot"
             },
-            "author": "Eva R. de Luis",
-            "title": "Este es el mapa de la DGT para visualizar dónde hay balizas V16 activas en España. Hay otro mapa no oficial más útil",
-            "description": "Estamos en 2026 y eso significa el adiós (o no) de los triángulos de señalización en favor de las balizas v16 para señalizar accidentes o averías en carretera. ¿Que no la llevas? Pues multa de 80 euros, aunque estos primeros días Pere Navarro aseguró que \"ser…",
-            "url": "https://www.xataka.com/movilidad/este-mapa-dgt-para-visualizar-donde-hay-balizas-v16-activas-espana-hay-otro-mapa-no-oficial-mucho-util",
-            "urlToImage": "https://i.blogs.es/c1d3c1/mapicaa/840_560.jpeg",
-            "publishedAt": "2026-01-03T10:30:59Z",
-            "content": "Estamos en 2026 y eso significa el adiós (o no) de los triángulos de señalización en favor de las balizas v16 para señalizar accidentes o averías en carretera. ¿Que no la llevas? Pues multa de 80 eur… [+4794 chars]"
+            "author": "The Virginian-Pilot and Daily Press staff",
+            "title": "Updated snow totals for southeastern Virginia: Forecast down - The Virginian-Pilot",
+            "description": "The weather service says Norfolk, Portsmouth, Suffolk and most of Chesapeake and Virginia Beach is likely to see 3-4 inches of snow. Higher amounts are possible.",
+            "url": "https://www.pilotonline.com/2026/01/31/updated-snow-forecast-virginia/",
+            "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2026/01/snowfall-4-pm-sat.jpg?w=864&h=613",
+            "publishedAt": "2026-02-01T03:46:04Z",
+            "content": "A Nor’easter is expected to hammer parts of Hampton Roads and northeastern North Carolina with heavy winds and icy cold this weekend, but the National Weather Service has adjusted some expected snow … [+4791 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daringfireball.net"
-            },
-            "author": "John Gruber",
-            "title": "★ Clicks Communicator and Clicks Power Keyboard",
-            "description": "I just love the chutzpah of these guys. They started with a good minimal launch product and are back two years later with what looks like a *much* better idea for a phone keyboard accessory. But they’re also now making their own whole goddamn phone.",
-            "url": "https://daringfireball.net/2026/01/clicks_communicator_and_clicks_power_keyboard",
-            "urlToImage": "https://daringfireball.net/graphics/df-wide-card.png",
-            "publishedAt": "2026-01-03T00:03:33Z",
-            "content": "Two years ago, I linked to the then-new Clicks keyboard case — an iPhone case with a built-in BlackBerry-style hardware keyboard jutting out from the bottom. I wrote then:\n\n\n I don’t know how much I’… [+3162 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bluerenga.blog"
+                "name": "MMORPG.com"
             },
             "author": null,
-            "title": "Adventure 751 (1980)",
-            "description": "COME WITH ME TO COLOSSAL CAVE. WHERE MAGIC ABOUNDS AND TREASURES ARE FOUND. BID YOUR FINGERS FOLLOW YOUR COMMANDS AND I WILL BE YOUR EYES AND HANDS. YET BEWARE THE FIERY DRAGON, FOR HE KNOWS NOT WH…",
-            "url": "https://bluerenga.blog/2026/01/01/adventure-751-1980/",
-            "urlToImage": "https://bluerenga.blog/wp-content/uploads/2025/12/newadvshot.jpeg",
-            "publishedAt": "2026-01-03T02:38:06Z",
-            "content": "COME WITH ME TO COLOSSAL CAVE. WHERE MAGIC ABOUNDS AND TREASURES ARE FOUND. BID YOUR FINGERS FOLLOW YOUR COMMANDS AND I WILL BE YOUR EYES AND HANDS. YET BEWARE THE FIERY DRAGON, FOR HE KNOWS NOT WHET… [+23467 chars]"
+            "title": "Ashes of Creation's Steven Sharif Resigned 'In Protest' As Intrepids Board Starts Mass Layoffs At MMO Studio - Update - MMORPG.com",
+            "description": "The future of Ashes of Creation seems to be in limbo following the news earlier tonight that its creative director and studio co-founder, Steven Sharif, resigned in protest over the Board of Directors' decision-making.",
+            "url": "https://www.mmorpg.com/news/ashes-of-creations-steven-sharif-resigned-in-protest-as-intrepids-board-starts-mass-layoffs-at-mmo-studio-update-2000137172",
+            "urlToImage": "https://media.mmorpg.com/images/heroes/posts/137172.jpg",
+            "publishedAt": "2026-02-01T02:48:00Z",
+            "content": "The future of Ashes of Creation seems to be in limbo following the news earlier tonight that its creative director and studio co-founder, Steven Sharif, resigned in protest over the Board of Director… [+3095 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Bradley C",
-            "title": "Apple @ Work: New survey shows why the Mac is becoming the most sustainable device in the enterprise",
-            "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect App…",
-            "url": "https://9to5mac.com/2026/01/03/new-survey-shows-why-the-mac-is-becoming-the-most-sustainable-device-in-the-enterprise/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/Survey.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2026-01-03T11:00:00Z",
-            "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary … [+6480 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Applesfera.com"
-            },
-            "author": "Alberto García",
-            "title": "Hay un accesorio muy pequeño para tener más almacenamiento en el Mac y se puede llevar a cualquier lugar",
-            "description": "Comprar un Mac con más almacenamiento del que viene en su configuración base puede salir bastante más caro, sobre todo si buscamos la máxima capacidad. Es por ello que muchos fabricantes lanzan accesorios muy prácticos —y generalmente a un precio asequible— c…",
-            "url": "https://www.applesfera.com/seleccion/hay-accesorio-muy-pequeno-para-tener-almacenamiento-mac-se-puede-llevar-a-cualquier-lugar",
-            "urlToImage": "https://i.blogs.es/98f0bf/mini-carcasa-satechi/840_560.jpeg",
-            "publishedAt": "2026-01-03T11:30:59Z",
-            "content": "Comprar un Mac con más almacenamiento del que viene en su configuración base puede salir bastante más caro, sobre todo si buscamos la máxima capacidad. Es por ello que muchos fabricantes lanzan acces… [+1755 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Authority"
-            },
-            "author": "Hadlee Simons",
-            "title": "Why 2026 smartphones won’t have this game-changing camera tech",
-            "description": "We saw the first one-inch camera sensors for smartphones several years ago, but why haven't they gained more traction?",
-            "url": "https://www.androidauthority.com/why-2026-smartphones-wont-have-game-changing-camera-tech-3627733/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/02/Xiaomi-15-Ultra-camera-housing-angled.jpg",
-            "publishedAt": "2026-01-03T12:00:56Z",
-            "content": "Modern smartphone cameras are impressive beasts, as many camera phones combine cutting-edge hardware with advanced image processing capabilities. Some of the more notable innovations in recent years … [+7079 chars]"
-        },
-        {
-            "source": {
-                "id": "die-zeit",
-                "name": "Die Zeit"
-            },
-            "author": "DIE ZEIT: News ",
-            "title": "Fernsehen und Streaming: Worauf sich Streaming-Fans 2026 freuen können",
-            "description": "Hier finden Sie Informationen zu dem Thema „Fernsehen und Streaming“. Lesen Sie jetzt „Worauf sich Streaming-Fans 2026 freuen können“.",
-            "url": "https://www.zeit.de/news/2026-01/03/worauf-sich-streaming-fans-2026-freuen-koennen",
-            "urlToImage": "https://img.zeit.de/news/2026-01/03/worauf-sich-streaming-fans-2026-freuen-koennen-image-group/wide__1300x731",
-            "publishedAt": "2026-01-03T06:07:09Z",
-            "content": "In diesem Jahr stehen neue Episoden von einigen Serienhits an, darunter das viel gefeierte Teenage-Drama «Euphoria» (Wow/HBO Max) mit Zendaya und die Historien-Romanze «Bridgerton» (Netflix). Auch di… [+8076 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BGR"
-            },
-            "author": "staff@bgr.com (José Adorno)",
-            "title": "5 Popular Apps That Don't Work With Apple CarPlay (But Should)",
-            "description": "CarPlay has become a vital element of the modern vehicle ecosystem, but Apple's infotainment system is still missing a number of major apps.",
-            "url": "https://www.bgr.com/2063611/popular-apps-dont-work-apple-carplay/",
-            "urlToImage": "https://www.bgr.com/img/gallery/5-popular-apps-that-dont-work-with-apple-carplay-but-should/l-intro-1767066365.jpg",
-            "publishedAt": "2026-01-03T11:17:00Z",
-            "content": "No one should be driving while watching TV. That makes complete sense. Still, popular streaming platforms should be available on CarPlay when people aren't driving. For example, Tesla lets users watc… [+965 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vida Extra"
-            },
-            "author": "Juan Sanmartín",
-            "title": "Es la estrella de la serie de ciencia ficción que arrasa en Apple TV, pero su primer papel fue hace 29 años para enseñarnos a jugar a Magic",
-            "description": "Si existía alguna duda sobre si Vince Gilligan iba a patinar de lo lindo con Pluribus, basta con echar un vistazo a la serie de Apple TV para despejarla por completo. La producción de ciencia ficción ya tiene en marcha una segunda temporada que estará protago…",
-            "url": "https://www.vidaextra.com/series/estrella-serie-ciencia-ficcion-que-arrasa-apple-tv-su-primer-papel-fue-hace-29-anos-para-ensenarnos-a-jugar-a-magic",
-            "urlToImage": "https://i.blogs.es/ef4081/mv5bzdiznjy0oditzdjjmi00yte1lwi1mdytzgq0mjc5nmu1mjgwxkeyxkfqcgc-._v1_/840_560.jpeg",
-            "publishedAt": "2026-01-03T11:00:59Z",
-            "content": "Si existía alguna duda sobre si Vince Gilligan iba a patinar de lo lindo con Pluribus, basta con echar un vistazo a la serie de Apple TV para despejarla por completo. La producción de ciencia ficción… [+1961 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Juli Clover",
-            "title": "Apple's 2026 Low-Cost A18 MacBook Pro: What We Know So Far",
-            "description": "Apple is planning to release a low-cost MacBook in 2026, which will apparently compete with more affordable Chromebooks and Windows PCs. Apple's most affordable Mac right now is the $999 MacBook Air, and the upcoming low-cost MacBook is expected to be cheaper…",
-            "url": "https://www.macrumors.com/2026/01/02/low-cost-macbook-pro-rumors/",
-            "urlToImage": "https://images.macrumors.com/t/_r3EKijswZhEo9czSROBvlN1jcU=/2500x/article-new/2025/12/Low-Cost-A18-Pro-MacBook-Feature-Pink.jpg",
-            "publishedAt": "2026-01-03T00:33:00Z",
-            "content": "Apple is planning to release a low-cost MacBook in 2026, which will apparently compete with more affordable Chromebooks and Windows PCs. Apple's most affordable Mac right now is the $999 MacBook Air,… [+5498 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Les Numériques"
-            },
-            "author": "Laure Renouard",
-            "title": "Actualité : 2G, prix, design : pourquoi l'année 2026 va bousculer vos habitudes mobiles",
-            "description": "Plus fins, plus intelligents, mais aussi plus chers : les smartphones de 2026 se préparent à une mutation profonde. Tandis que les modèles \"tri-fold\" et les batteries au silicium-carbone redéfinissent leur design, la réalité du marché impose des choix radicau…",
-            "url": "https://www.lesnumeriques.com/telephone-portable/2g-prix-design-pourquoi-l-annee-2026-va-bousculer-vos-habitudes-mobiles-n248811.html",
-            "urlToImage": "https://cdn.lesnumeriques.com/optim/news/24/248811/cfd1901e-smartphones-en-2026__1200_678__0-109-3000-1684.jpg",
-            "publishedAt": "2026-01-03T07:02:00Z",
-            "content": "Toujours en mouvement, concentré d'innovation technique (ou marketing), lunivers du smartphone sapprête à entrer en lan 2026 qui est aussi celle des 19 ans d'Android et diOS. Avant de basculer dans l… [+7542 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Xatakamovil.com"
-            },
-            "author": "Laura Sacristán",
-            "title": "En este curioso mapa puedes ver en tiempo real todas las balizas V-16 activas en España",
-            "description": "Ha llegado el año 2026 y, con él, la obligatoriedad de llevar una baliza V-16 conectada a bordo de los vehículos para utilizarla en sustitución de los triángulos de emergencia (o como complemento, allá cada cual). En caso contrario, podemos enfrentarnos a una…",
-            "url": "https://www.xatakamovil.com/movil-y-sociedad/este-curioso-mapa-puedes-ver-tiempo-real-todas-balizas-v-16-activas-espana",
-            "urlToImage": "https://i.blogs.es/3bf03c/mapa-balizas/840_560.jpeg",
-            "publishedAt": "2026-01-03T10:30:59Z",
-            "content": "Ha llegado el año 2026 y, con él, la obligatoriedad de llevar una baliza V-16 conectada a bordo de los vehículos para utilizarla en sustitución de los triángulos de emergencia (o como complemento, al… [+2347 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Caschys Blog"
-            },
-            "author": "caschy",
-            "title": "macUSB bringt alte macOS-Versionen per USB-Stick an den Start",
-            "description": "Wer hin und wieder alte Intel-Macs reaktiviert, kennt das Thema: Ein bootfähiger USB-Stick mit einer passenden macOS- oder OS-X-Version wird gebraucht, der aktuelle Mac hat aber Apple Silicon an Bord. Offizielle Wege und halbseidene Terminal-Snippets enden da…",
-            "url": "https://stadt-bremerhaven.de/macusb-bringt-alte-macos-versionen-per-usb-stick-an-den-start/",
-            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/12/old-macbook-airmaxim-hopman-Hin-rzhOdWs-unsplash-2.jpg",
-            "publishedAt": "2026-01-03T05:30:33Z",
-            "content": "Wer hin und wieder alte Intel-Macs reaktiviert, kennt das Thema: Ein bootfähiger USB-Stick mit einer passenden macOS- oder OS-X-Version wird gebraucht, der aktuelle Mac hat aber Apple Silicon an Bord… [+1809 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Caschys Blog"
-            },
-            "author": "caschy",
-            "title": "Umfrage-Ergebnisse Dezember 2025: Das tragt ihr am Handgelenk",
-            "description": "Vor ein paar Wochen hatten wir euch gefragt: Was trägst du primär am Handgelenk? Mittlerweile haben über 6.900 Leser abgestimmt, und die Ergebnisse geben ein ziemlich spannendes Bild unserer Community ab. Wer dachte, die klassische Uhr sei tot oder Wear...Zum…",
-            "url": "https://stadt-bremerhaven.de/umfrage-ergebnisse-dezember-2025-das-tragt-ihr-am-handgelenk/",
-            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/apple-watch-ultra-alek-olson-BNJjDz3tdqA-unsplash-2.jpg",
-            "publishedAt": "2026-01-03T11:30:58Z",
-            "content": "Foto von Alek Olson auf Unsplash\r\nVor ein paar Wochen hatten wir euch gefragt: Was trägst du primär am Handgelenk? Mittlerweile haben über 6.900 Leser abgestimmt, und die Ergebnisse geben ein ziemlic… [+2787 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Touchlab.jp"
-            },
-            "author": "Nakimo",
-            "title": "【図解】2026年Apple初売りで「Apple Watch SE 3」を実質34%OFFで買う攻略ルート(1月2日〜5日)",
-            "description": "2026年1月2日から5日まで、Appleが毎年恒例の初売りを開催しています。 この初売りで2025年9月に発売されたばかりの「Apple Watch SE 3」を、お得に購入する手順をまとめました。 今回の初売りで隠れ […]©2019 \"Touch Lab - タッチ ラボ\".",
-            "url": "https://touchlab.jp/2026/01/apple_newyear_2026_applewatchse3/",
-            "urlToImage": "https://touchlab.jp/wp-content/uploads/2026/01/apple_newyear2026_awse3_0.webp",
-            "publishedAt": "2026-01-03T07:32:06Z",
-            "content": "2026年1月2日から5日まで、Appleが毎年恒例の初売りを開催しています。\nこの初売りで2025年9月に発売されたばかりの「Apple Watch SE 3」を、お得に購入する手順をまとめました。\n\n今回の初売りで隠れた狙い目なのがこの「Apple Watch SE 3」です。発売から半年経っていない最新モデルにも関わらず、還元率が非常に高く設定されています。\n誰でも確実に受け取れるキャンペ… [+1756 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GSMArena.com"
-            },
-            "author": "Michail",
-            "title": "The best tablets of 2025",
-            "description": "It was an interesting year for tablets as we saw hundreds of new slates hit the shelves. From compact offerings with flagship specs to established Ultra options from the likes of Samsung and a great selection of budget options, 2025 did not disappoint.\n\nAnd w…",
-            "url": "https://www.gsmarena.com/best_tablets_of_2025-news-70836.php",
-            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/12/best-tablets-2025/-952x498w6/gsmarena_000.jpg",
-            "publishedAt": "2026-01-03T11:31:02Z",
-            "content": "It was an interesting year for tablets as we saw hundreds of new slates hit the shelves. From compact offerings with flagship specs to established Ultra options from the likes of Samsung and a great … [+5581 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GSMArena.com"
-            },
-            "author": "Sagar",
-            "title": "Latest Samsung Galaxy S26 series rumor brings good news for potential buyers",
-            "description": "Some flagships launched in 2025 were considerably more expensive than their predecessors, and the story won't be different with the phones launching this year, either, due to rising component costs, among other factors. The upcoming Samsung Galaxy S26 series …",
-            "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_galaxy_z_fold8_galaxy_z_flip8_usa_price_tipped-news-70931.php",
-            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/09/samsung-galaxy-s26-ultra-new-renders/-952x498w6/gsmarena_000.jpg",
-            "publishedAt": "2026-01-03T07:01:02Z",
-            "content": "Some flagships launched in 2025 were considerably more expensive than their predecessors, and the story won't be different with the phones launching this year, either, due to rising component costs, … [+1482 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GSMArena.com"
-            },
-            "author": "Ro",
-            "title": "Top phones of 2025: Camera",
-            "description": "This year has been an eventful one for cameraphones, carrying over the trend. Some manufacturers made huge strides when it comes to cameras, while others decided to focus on polishing their products. But at the end of the day, pretty much all manufacturers ha…",
-            "url": "https://www.gsmarena.com/top_phones_of_2025_camera-news-70831.php",
-            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/12/top-phones-2025-camera/-952x498w6/gsmarena_000.jpg",
-            "publishedAt": "2026-01-03T09:32:02Z",
-            "content": "This year has been an eventful one for cameraphones, carrying over the trend. Some manufacturers made huge strides when it comes to cameras, while others decided to focus on polishing their products.… [+3741 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TownandCountrymag.com"
-            },
-            "author": "Andrew Zucker",
-            "title": "New NETFLIX reality show follows Palm Beach socialites...",
-            "description": "A new Netflix reality series follows a group of socially ascendant women in Florida’s ritziest enclave. Some locals are clutching their pearls.",
-            "url": "https://www.townandcountrymag.com/leisure/arts-and-culture/a69878730/members-only-netflix-palm-beach-local-reactions/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/8d2e9bf0-2a66-4f77-9793-9a055fcb1305.jpeg?crop=1xw:0.75xh;0xw,0.25xh&resize=1200:*",
-            "publishedAt": "2026-01-03T00:22:38Z",
-            "content": "Just about every stop on the second-home circuit has had its reality TV moment. The Hamptons is the backdrop for Bravos Summer House. VH1 aired Secrets of Aspen, set in that winter wonderland almost … [+6292 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Smartworld.it"
-            },
-            "author": "Nicola Ligas",
-            "title": "Il 2025 è stato un anno di \"tagli\" per Apple: è sparito anche l'ultimo iPhone col tasto Home",
-            "description": "Apple elimina 25 prodotti tra iPhone, iPad, Mac e accessori e accelera verso un catalogo più uniforme mentre prepara l’iPhone pieghevole.\r\nL'articolo Il 2025 è stato un anno di \"tagli\" per Apple: è sparito anche l'ultimo iPhone col tasto Home sembra essere il…",
-            "url": "https://www.smartworld.it/news/apple-prodotti-fuori-produzione-2025-iphone.html",
-            "urlToImage": "https://www.smartworld.it/images/2026/01/03/addio-vecchi-iphone_1200x675.jpeg",
-            "publishedAt": "2026-01-03T09:50:00Z",
-            "content": "Il 2025 ha segnato una fase di cambiamento per Apple, che ha deciso di chiudere la produzione di circa 25 prodotti tra smartphone e accessori. Una scelta che ridisegna il catalogo e conferma una stra… [+2282 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "20 Minutes"
-            },
-            "author": "Christophe Séfrin",
-            "title": "Money Walkie : Le porte-monnaie électronique des petits séduit aussi les plus grands",
-            "description": "Avec lui, régler des achats sans argent liquide ni carte bancaire, ni smartphone est devenu un jeu d’enfant",
-            "url": "https://www.20minutes.fr/high-tech/4192055-20260103-money-walkie-porte-monnaie-electronique-petits-seduit-aussi-plus-grands",
-            "urlToImage": "https://img.20mn.fr/04MSxMfpSkKr9bMWOrITOCk/1444x920_paiement-money-walkie-effectue-comme-carte-bancaire-contact",
-            "publishedAt": "2026-01-03T07:02:36Z",
-            "content": "Plein les poches ? Largent liquide ne coule plus forcément à flots. Et encore moins dans les poches des plus jeunes qui ont aujourdhui dautres moyens à leur disposition pour régler leurs petits achat… [+4145 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "author": "影山 巧",
-            "title": "【本日みつけたお買い得品】M5チップ搭載の最新iPad Proが約1万5千円オフ",
-            "description": "Amazonは1月3日から7日にかけて、スマイルSALE 初売りを実施中だ。Apple「13インチiPad Pro(M5)」(Wi-Fiモデル)は、直近価格からの1万5,789円引きで、37万5,011円にて購入できる。",
-            "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2075258.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/2075/258/01.jpg",
-            "publishedAt": "2026-01-03T01:37:39Z",
-            "content": "Amazon137SALE Apple13iPad Pro(M5)(Wi-Fi)15,789375,011 \r\n 13iPad Pro(M5)13EL(120Hz2,752×2,064)SoCM516GB2TBOSiPadOSAppleM5M1iPad Pro6.76AI4 \r\n AF1,2001,2004K/60fps4K/30fpsProRes4/4 \r\n Thunderbolt 3Wi-F… [+34 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "author": "影山 巧",
-            "title": "【本日みつけたお買い得品】iPhone 15 Plusが約2万3千円引きに",
-            "description": "Amazonは1月3日から7日にかけて、スマイルSALE 初売りを実施している。Apple「iPhone 15 Plus」の128GBストレージ版は、直近価格から2万3,892円引きで、10万8,600円にて購入可能だ。",
-            "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2075265.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/2075/265/01.jpg",
-            "publishedAt": "2026-01-03T01:54:50Z",
-            "content": "Amazon137SALE AppleiPhone 15 Plus128GB23,892108,600 \r\n iPhone 15 Plus26.7EL(2,796×1,290)SoCA16 Bionic128GBOSiOSAF4,800+1,2003050%IP68 \r\n USB 2.0 Type-C()Wi-Fi 6Bluetooth 5.3Nano SIM/eSIM(eSIM) \r\n 77.… [+16 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DIE WELT"
-            },
-            "author": "WELT",
-            "title": "Biathlet Botn fand seinen Freund – „Ich verstand sofort, dass er tot war“",
-            "description": "Der Tod des Biathleten Sivert Guttorm Bakken kurz vor Weihnachten schockte das norwegische Team. Nun äußert sich Johan-Olav Botn, der seinen Freund gefunden hatte, zu den Umständen. Der Gesamtweltcupführende gibt ein Versprechen.",
-            "url": "https://www.welt.de/sport/wintersport/article6958de22fb77630dac2761cd/sivert-guttorm-bakken-biathlet-botn-fand-seinen-freund-ich-verstand-sofort-dass-er-tot-war.html",
-            "urlToImage": "https://images.welt.de/6958de22fb77630dac2761cd/488561d8b7c2f08f01def20ef513bb00-master/ci16x9-w1200/dpa-com-20090101-260103-935-1053931-jpg",
-            "publishedAt": "2026-01-03T09:31:30Z",
-            "content": "Der Tod des Biathleten Sivert Guttorm Bakken kurz vor Weihnachten schockte das norwegische Team. Nun äußert sich Johan-Olav Botn, der seinen Freund gefunden hatte, zu den Umständen. Der Gesamtweltcup… [+3031 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Techbang.com"
-            },
-            "author": "WL.",
-            "title": "Apple 更新過時產品名單：iPhone 11 Pro、最後一款 Intel 版 MacBook Air 入列",
-            "description": "Apple 宣佈 iPhone 11 Pro 等多款產品列入過時名單，這款經典 iPhone 11 Pro 宣告一個時代的結束。同時，Intel MacBook Air 也進入過時產品行列。隨著 2026 年到來，Apple 正式更新官方的過時產品名單，這次被列入過期產品包括 iPhone 11 Pro、iPhone 8 Plus、Apple Watch Series 5 系列，以及 Intel 版本的 13 吋 MacBook Air。\nApple 的過時產品是指停止銷售超過 5 年，但未滿 7 年的產品，而 …",
-            "url": "https://www.techbang.com/posts/127263-apple-iphone-11-pro-intel-macbook-air-obsolete",
-            "urlToImage": "https://cdn2.techbang.com/system/excerpt_images/127263/original/2a8a48398f84cc20c0471a9fb47c600e.jpg?1767342123",
-            "publishedAt": "2026-01-03T06:00:00Z",
-            "content": "2026 Apple iPhone 11 ProiPhone 8 PlusApple Watch Series 5 Intel 13 MacBook Air\r\nApple 5 7 Apple 2026 Apple  2020 MacBook AirRetina, 13-inch128GB iPhone 8 PlusiPhone 11 Pro iPad Air 3 Apple Watch Seri… [+278 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Thomas Handley",
-            "title": "Apple evalúa separar el lanzamiento del iPhone 18 Pro y el modelo estándar",
-            "description": "Apple estaría preparando uno de los mayores giros estratégicos de su historia reciente. El iPhone 18 base no se presentaría junto a los modelos Pro y se retrasaría hasta 2027, una decisión que podría cambiar para siempre el clásico calendario de lanzamientos …",
-            "url": "https://es.gizmodo.com/apple-evalua-separar-el-lanzamiento-del-iphone-18-pro-y-el-modelo-estandar-2000212686",
-            "urlToImage": "https://es.gizmodo.com/app/uploads/2026/01/Gizmodo-55-1200x675.jpg",
-            "publishedAt": "2026-01-03T08:15:16Z",
-            "content": "Durante más de una década, septiembre ha sido sinónimo de iPhone. Cada año, Apple marcaba el ritmo del sector tecnológico con un lanzamiento puntual y previsible. Sin embargo, distintos reportes coin… [+3415 chars]"
-        },
-        {
-            "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "Rene Millman",
-            "title": "Norton VPN: 2025’s milestones and the roadmap for 2026",
-            "description": "2025 was a \"turning-point year\" for Norton VPN. From 25Gbps server upgrades to navigating a threat landscape changed by Generative AI, here is how the provider evolved over the last 12 months.",
-            "url": "https://www.techradar.com/vpn/vpn-services/norton-vpn-2025s-milestones-and-the-roadmap-for-2026",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UEoH6xtRoaZvhS6RGaJtxP-1200-80.jpg",
-            "publishedAt": "2026-01-03T12:00:00Z",
-            "content": "Norton’s VPN strategy in 2025 reflects a shifting security landscape, where consumer expectations, regulatory pressures, and technological change are converging at unprecedented speed.\r\nAccording to … [+4866 chars]"
-        },
-        {
-            "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "Simon Lucas",
-            "title": "Final's latest DX over-ear headphones still aren't cheap — but if you need detail and faithful neutrality, they're the ones",
-            "description": "The first closed-back design in Final Audio’s ‘DX’ range is also the most affordable – but that’s not the same as saying it’s in any way inexpensive…",
-            "url": "https://www.techradar.com/audio/headphones/final-audio-dx3000cl-review",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/D7R4nnRPdorqHfBq2YUMCA-2560-80.jpg",
-            "publishedAt": "2026-01-03T11:30:00Z",
-            "content": "Why you can trust TechRadar\r\nWe spend hours testing every product or service we review, so you can be sure you're buying the best. Find out more about how we test.Final Audio DX3000CL: Two-minute rev… [+12385 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Antyweb.pl"
-            },
-            "author": "Kamil Świtalski",
-            "title": "Szykują się wielkie podwyżki? Nowe układy Apple nawet 80% droższe",
-            "description": "Tanio już było. Teraz trzeba przygotować się na to, że ceny będą drastycznie rosnąć.",
-            "url": "https://antyweb.pl/szykuja-sie-wielkie-podwyzki-nowe-uklady-apple-nawet-80-drozsze",
-            "urlToImage": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2025/10/ktory-iphone-jest-najbardziej-oplacalny-jesien-2025-3.jpeg",
-            "publishedAt": "2026-01-03T07:00:52Z",
-            "content": "Apple moe stan przed najwikszym skokiem zwizanym z kosztami produkcji procesorów w historii iPhone'a. Jak wynika z najnowszych raportów, 2nanometrowy chip A20 dla iPhone'a 18 mógby kosztowa nawet ok.… [+2448 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slate Magazine"
-            },
-            "author": "Emily Peck, Felix Salmon, and Elizabeth Spiers",
-            "title": "So Was it a Good Year for US Markets or Nah?",
-            "description": "2025 was an interesting year for US stock markets and global dealmaking.",
-            "url": "https://slate.com/podcasts/slate-money/2026/01/business-2025-year-review-stock-market-mexico-donald-trump-trade-war",
-            "urlToImage": "https://compote.slate.com/images/0ad4cce0-1643-405e-b092-a65cc2f24b9e.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-            "publishedAt": "2026-01-03T10:00:00Z",
-            "content": "This week: 2025 ended on high for the US stock market but no one seems too pleased with its performance. Felix Salmon, Elizabeth Spiers, and Emily Peck, unpack the story of the US markets in 2025, wh… [+941 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Actualidadiphone.com"
-            },
-            "author": "Actualidad iPhone",
-            "title": "El último MacBook Air con Intel pasa a la lista vintage de Apple",
-            "description": "Apple declara vintage el último MacBook Air con Intel. Conoce qué implica para soporte, reparaciones y si conviene cambiar ahora de portátil.",
-            "url": "https://www.actualidadiphone.com/el-ultimo-macbook-air-con-intel-pasa-a-la-lista-vintage-de-apple/",
-            "urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2026/01/El-ultimo-MacBook-Air-con-Intel-ya-es-vintage.jpg",
-            "publishedAt": "2026-01-03T00:01:24Z",
-            "content": "Hablar de un ordenador vintage suele llevarnos a pensar en máquinas realmente antiguas, pero en este caso se trata de un equipo de apenas unos años. Apple ha decidido que el último MacBook Air con pr… [+11688 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Actualidadiphone.com"
-            },
-            "author": "Ángel González",
-            "title": "Apple quiere que los AirPods Pro vayan más allá del sonido: la apuesta por auriculares que entienden el mundo",
-            "description": "Apple plantea lanzar un nuevo modelo de AirPods Pro 3 con cámaras infrarrojas en ellos para captar la información del entorno.",
-            "url": "https://www.actualidadiphone.com/apple-quiere-que-los-airpods-pro-vayan-mas-alla-del-sonido-la-apuesta-por-auriculares-que-entienden-el-mundo/",
-            "urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2025/09/AirPods-Pro-3-persona.jpg",
-            "publishedAt": "2026-01-03T10:00:56Z",
-            "content": "Los AirPods Pro 3 llevan muy poco tiempo en el mercado, pero todo apunta a que Apple no ha dicho su última palabra. Diversos informes coinciden en que la compañía trabaja en una segunda variante del … [+1975 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "3dnews.ru"
+                "name": "BBC News"
             },
             "author": null,
-            "title": "Pebble представила умные часы Round 2 — более тонкие и с цветным дисплеем e-paper",
-            "description": "Компания Pebble готовит к выпуску новые часы Round 2, которые представляют собой обновлённую версию умных часов Pebble, но с круглым экраном. Часы предлагают базовое отслеживание здоровья и активности, например, количество шагов, но в них отсутствует пульсоме…",
-            "url": "https://3dnews.ru/1134762/pebble-predstavila-umnie-chasi-round-2-bolee-tonkie-i-s-tsvetnim-displeemepaper",
-            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2026/01/03/1134762/Pebble-Round-2.jpg",
-            "publishedAt": "2026-01-03T05:09:00Z",
-            "content": "Pebble Round 2, Pebble, . , , , , . 14 .\r\n: Pebble\r\nPebble Time Round, 2015 . 8,1 , (7,5 ), . Pebble (Eric Migicovsky) TechCrunch, , , - , .\r\nPebble Round 2 1.3- E-paper 283 ppi, , Pebble Time Round.… [+180 chars]"
+            "title": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say - BBC",
+            "description": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking.",
+            "url": "https://www.bbc.com/news/articles/c701g1g00gdo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/77d5/live/cbf50f70-fe96-11f0-ae1d-b56660f38b59.jpg",
+            "publishedAt": "2026-02-01T01:30:24Z",
+            "content": "The civil defence agency, which is operated by Hamas, says children and women were among those killed. It added that in one attack, helicopter gunships hit a tent sheltering displaced people in the s… [+27 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Everything-everywhere.com"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Gary Arndt",
-            "title": "The Warsaw Ghetto Uprising",
-            "description": "Podcast Transcript In 1943, one of the most notable acts of Jewish resistance during World War II took place. For nearly one month, residents of the Warsaw Ghetto fought against Nazi soldiers who were attempting to transport the residents to concentration cam…",
-            "url": "https://everything-everywhere.com/the-warsaw-ghetto-uprising/",
-            "urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-KbsGzn2/0/Lrk8J45cPQKmvzCkDB77pp3HtHScvw6v29sVf985T/L/2007epart-L.jpg",
-            "publishedAt": "2026-01-03T06:39:03Z",
-            "content": "Subscribe Apple | Spotify | Amazon |iHeart Radio | Castbox | Podcast Republic | RSS | Patreon | Discord | Facebook\r\nIn 1943, one of the most notable acts of Jewish resistance during World War II took… [+13442 chars]"
+            "author": "Dean  Fioresi",
+            "title": "Orange County confirms second measles case in traveler who visited Disneyland, California Adventure - CBS News",
+            "description": "Orange County health officials have confirmed their second measles case of 2026 in an international traveler who arrived in California at Los Angeles International Airport before visiting Disneyland and California Adventure last week.",
+            "url": "https://www.cbsnews.com/losangeles/news/orange-county-measles-disneyland-california-adventure-lax-airport/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/14/831420ac-d018-421d-9b41-9494f026d016/thumbnail/1200x630/5dcf8ef39658c251ba6de34812513f43/gettyimages-1359395701-1.jpg",
+            "publishedAt": "2026-02-01T01:21:00Z",
+            "content": "Orange County health officials have confirmed their second measles case of 2026 in an international traveler who arrived in California at Los Angeles International Airport before visiting Disneyland … [+2983 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Tinhte.vn"
-            },
-            "author": "no-reply@tinhte.vn (cuhiep), cuhiep",
-            "title": "MacBook 12.9 inch giá rẻ với chip A18 Pro được cho là sẽ ra mắt vào đầu năm nay: Apple có kế...",
-            "description": "MacBook 12.9 inch giá rẻ với chip A18 Pro được cho là sẽ ra mắt vào đầu năm nay: Apple có kế hoạch giới thiệu MacBook 12,9 inch vào mùa xuân năm 2026, theo TrendForce. Trong một thông cáo báo chí trong tuần này…",
-            "url": "https://tinhte.vn/thread/macbook-12-9-inch-gia-re-voi-chip-a18-pro-duoc-cho-la-se-ra-mat-vao-dau-nam-nay-apple-co-ke.4089001/",
-            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2026/01/8933430_IMG-3188.jpeg",
-            "publishedAt": "2026-01-03T03:20:02Z",
-            "content": ""
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Spidersweb.pl"
-            },
-            "author": "Malwina Kuśmierek",
-            "title": "Apple przegrał w najważniejszym wyścigu. \"Za pieniądze nie kupisz wszystkiego\"",
-            "description": "Apple przez lata wygrywał, wchodząc na rynek później niż inni. AI było pierwszym polem, na którym ta strategia przestała działać.",
-            "url": "https://spidersweb.pl/2026/01/apple-dlaczego-nie-wyszlo-z-ai.html",
-            "urlToImage": "https://cdn-sw.spidersweb.pl/2025/12/apple-dlaczego-nie-wyszlo-z-ai.jpg",
-            "publishedAt": "2026-01-03T06:10:00Z",
-            "content": "Przez prawie trzy dekady Apple budowa swoj pozycj na przekonaniu, e w technologii liczy si przede wszystkim jako wykonania, kontrola nad detalem i cierpliwo. Koncern z Cupertino wielokrotnie wchodzi … [+10090 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Twistedsifter.com"
-            },
-            "author": "Matthew Gilligan",
-            "title": "’20 people said it also happened to them.’ – A Traveler Said She Missed A Flight Because Of Apple’s Silent Alarm",
-            "description": "It's probably a good idea to set more than one alarm...just in case...",
-            "url": "http://twistedsifter.com/2026/01/20-people-said-it-also-happened-to-them-a-traveler-said-she-missed-a-flight-because-of-apples-silent-alarm/",
-            "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/12/clclccc_81761b.png",
-            "publishedAt": "2026-01-03T09:48:12Z",
-            "content": "TikTok/@brettsbites\r\nI’m so paranoid about missing my alarm that I check and re-check it about ten times before I go to sleep just to make sure that it’s on…\r\nAnd this story is gonna make me even mor… [+1475 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Twistedsifter.com"
-            },
-            "author": "Heide Lazaro",
-            "title": "Woman Greets A Quiet Custodian Every Afternoon As She Leaves For Work, And She Eventually Learned That Her Smile Meant More Than She Realized",
-            "description": "Never underestimate the power of a beautiful smile.",
-            "url": "http://twistedsifter.com/2026/01/woman-greets-a-quiet-custodian-every-afternoon-as-she-leaves-for-work-and-she-later-learned-her-simple-smile-meant-more-than-she-ever-realized/",
-            "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/12/Twisted-Sifter-2253.jpg",
-            "publishedAt": "2026-01-03T01:55:42Z",
-            "content": "Pexels/Reddit\r\nA simple smile can brighten up someone’s entire day.\r\nThis public school librarian always greeted the custodian as she left work.\r\nLittle did she know that this small gesture meant a l… [+999 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Twistedsifter.com"
-            },
-            "author": "Jayne Elliott",
-            "title": "Woman’s Mother Babysits While She’s At A Chemotherapy Appointment, But When She Returns Home, She Realizes Her Mom Stole Her Groceries",
-            "description": "She should never leave her children alone with her mother again!",
-            "url": "http://twistedsifter.com/2026/01/womans-mother-babysits-while-shes-at-a-chemotherapy-appointment-but-when-she-returns-home-she-realizes-her-mom-stole-her-groceries/",
-            "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/12/Twisted-Sifter-2025-12-16T162608.313.png",
-            "publishedAt": "2026-01-03T00:21:40Z",
-            "content": "Shutterstock/Reddit\r\nImagine having a doctor’s appointment, and your mom agrees to babysit while you’re gone. What would you do if you returned home and discovered that your mom had stolen something?… [+1998 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Taisy0.com"
-            },
-            "author": "taisy0",
-            "title": "A18 Proチップを搭載した安価な｢MacBook｣は今年の春に登場か",
-            "description": "TrendForceが、最新の調査報告を公開しており、その中で、Appleは2026年春にエントリー〜ミドルレンジ向けの12.9インチの「MacBook」を投入する計画だと報告しています。 報告書の中ではそれ以上の詳細は触れられていないもの",
-            "url": "https://taisy0.com/2026/01/03/218627.html",
-            "urlToImage": "https://taisy0.com/wp-content/uploads/2025/11/th_Low-Cost-MacBook-Feature-A18-Pro.jpg",
-            "publishedAt": "2026-01-03T01:07:44Z",
-            "content": "TrendForceApple202612.9MacBook\r\niPhoneAMacBook\r\nPC2026PC5.417,300\r\n20262PC\r\nPC\r\nApple\r\nMacBook"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BMWBLOG"
-            },
-            "author": "Steven Paul",
-            "title": "Why the BMW F90 M5 Is One of the Most Ridiculous Performance Bargains Under $40,000",
-            "description": "Last week, we discussed some of the best performance bargains coming in the BMW world in 2026. Around halfway through writing that, I discovered BMW F90 M5 prices hovering at and below $40,000. Some cars...\nFirst published by https://www.bmwblog.com",
-            "url": "https://www.bmwblog.com/2026/01/03/bmw-f90-m5-40k-performance-bargain-2026/",
-            "urlToImage": "https://cdn.bmwblog.com/wp-content/uploads/2018/08/BMW-M5-Competition-test-drive64.jpg",
-            "publishedAt": "2026-01-03T11:00:28Z",
-            "content": "Last week, we discussed some of the best performance bargains coming in the BMW world in 2026. Around halfway through writing that, I discovered BMW F90 M5 prices hovering at and below $40,000. Some … [+4502 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sapo.pt"
-            },
-            "author": "Pedro Simões",
-            "title": "Novo problema na Apple? Bateria do iPhone pode inchar durante viagens de avião",
-            "description": "A Apple é reconhecida pelo rigoroso controlo de qualidade dos seus dispositivos. Mas nem mesmo a gigante de Cupertino está imune a falhas inesperadas. Surgiram relatos que apontam para um comportamento anómalo e potencialmente...",
-            "url": "https://pplware.sapo.pt/apple/novo-problema-na-apple-bateria-do-iphone-pode-inchar-durante-viagens-de-aviao/",
-            "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2025/10/iphone-17-pro-max-blue.webp",
-            "publishedAt": "2026-01-03T08:00:12Z",
-            "content": "A Apple é reconhecida pelo rigoroso controlo de qualidade dos seus dispositivos. Mas nem mesmo a gigante de Cupertino está imune a falhas inesperadas. Surgiram relatos que apontam para um comportamen… [+2252 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Iphones.ru"
-            },
-            "author": "Дмитрий Борисов",
-            "title": "Когда компьютеры были роскошью. История появления первых компьютерных клубов",
-            "description": "В прошлом году одно мое декабрьское утро началось с крепкого такого пинка куда надо и редакционной задачи выбраться на разведку в местный компьютерный клуб, мол, посмотри, что там как работает в наши-то дни. С результатом вылазки можете ознакомиться на сайте.…",
-            "url": "https://www.iphones.ru/iNotes/ot-zakrytyh-klubov-dlya-svoih-do-bolshogo-biznesa-i-kolybeli-kibersporta-istoriya-razvitiya-kompyuternyh-klubov",
-            "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2025%2F12%2FIMG_0027-scaled.jpg",
-            "publishedAt": "2026-01-03T06:30:00Z",
-            "content": ", , , - . .\r\n , , - . … , . \r\n 60 \r\n, . \r\n « » , .\r\n, 70-, Homebrew Computer Club, . . \r\nHomebrew Computer Club , . \r\n, . Apple I.\r\n, Homebrew Computer Club . , ( , Altair 8800), . \r\n .\r\n, 80- . , : … [+711 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thenewslens.com"
-            },
-            "author": "中央通訊社",
-            "title": "北捷開放QR乘車碼4大QA一次看；可刷信用卡嗎？有哪些優惠？",
-            "description": "台北捷運全閘門開放QR碼乘車，整合TWQR與街口支付等17家業者，並同享常客優惠。另開始試辦信用卡感應支付，初期限定台新卡。各家業者亦推出相關優惠活動，鼓勵民眾體驗。",
-            "url": "https://www.thenewslens.com/article/263175",
-            "urlToImage": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/01/8172b4b6-0752-4fc0-811e-9b6fae0a3e18.jpg",
-            "publishedAt": "2026-01-03T06:52:00Z",
-            "content": "17QR8TWQRWalletPay8\r\n17QR\r\n1317QRTWQR9iPASS MONEYicash Pay Wallet+PAYPay8\r\nQR1\r\n136Apple PayGoogle PaySamsung Pay7Apple Pay ECP\r\nQR\r\niPASS MONEYicash Pay5QRiPASS MONEYicash Pay\r\nApple PayGoogle PaySa… [+130 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Giga"
-            },
-            "author": "Marina Hänsel",
-            "title": "Streaming lässt euch arm werden: Darum werden Netflix & Co. immer teurer für euch",
-            "description": "Als Streaming-Fans müssen Verbraucher immer tiefer in die eigene Tasche greifen. Das liegt aber nicht nur an den ständig steigenden Preisen – sondern vor allem an der Logik der Streaming-Anbieter.Ein Kommentar von Marina Hänsel",
-            "url": "https://www.giga.de/entertainment/streaming-laesst-euch-arm-werden-darum-werden-netflix-co-immer-teurer-fuer-euch--01J5QS7P5GP8SWXNZ8F4CA7MJK",
-            "urlToImage": "https://static.giga.de/19/c8/e1/1da3e83203d5a6ca4e9260c02c_cmUgMTkyMCAxMDgwAzE4MTMzM2FhOTAy.png",
-            "publishedAt": "2026-01-03T10:30:00Z",
-            "content": "Als Streaming-Fans müssen Verbraucher immer tiefer in die eigene Tasche greifen. Das liegt aber nicht nur an den ständig steigenden Preisen sondern vor allem an der Logik der Streaming-Anbieter.\r\nEin… [+5183 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Screen Rant"
-            },
-            "author": "Dhruv Sharma",
-            "title": "Legacy of Spies: Slow Horses’ Perfect Spy Thriller Replacement?",
-            "description": "Apple TV’s Slow Horses can never be replaced, but its perfect rival will be an upcoming spy thriller book adaptation that seems equally promising.",
-            "url": "https://screenrant.com/legacy-of-spies-slow-horses-competitor/",
-            "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/a28df6cc-6ed2-4253-9d22-118255ff2e8b.jpeg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-01-03T04:30:18Z",
-            "content": "An exciting spy thriller that is adapting a bestselling set of books could become the perfect rival to Apple TV's Slow Horses.\r\nAlthough Apple TV has had a long line of successful shows in recent yea… [+2701 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ipadizate.com"
-            },
-            "author": "Sergio J. Ortiz",
-            "title": "La nueva edición especial limitada de los AirTags está guapísima, pero sólo la verás en Japón",
-            "description": "No es la primera vez que sucede, y probablemente tampoco será la última. El año que viene volveremos a ver una nueva edición más del popular localizador AirTag de Apple en Japón. De hecho, ya en el pasado, la firma del logo de la manzana mordida comercializó …",
-            "url": "https://ipadizate.com/apple-airtags/la-nueva-edicion-especial-limitada-de-los-airtags-esta-guapisima-pero-solo-la-veras-en-japon",
-            "urlToImage": "https://ipadizate.com/hero/2026/01/apples-new-year-sale-in-japan-includes-a-free-limited-v0-ki3iu0s1wpir5v0ibalxxhxy1_wry3ybfrjxgrgnvfm.jpeg?width=1200",
-            "publishedAt": "2026-01-03T11:02:51Z",
-            "content": "Apple celebra el Año Nuevo en Japón\r\nNo es la primera vez que sucede, y probablemente tampoco será la última. El año que viene volveremos a ver una nueva edición más del popular localizador AirTag de… [+2088 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Begeek.fr"
-            },
-            "author": "Morgan Fromentin",
-            "title": "Face à des ventes décevantes, Apple révise à la baisse le budget consacré au Vision Pro",
-            "description": "Face à des ventes décevantes de son casque Vision Pro, Apple revoit à la baisse ses investissements dans ce produit. Le groupe adapte ainsi sa stratégie, alors que les attentes initiales n’ont pas été atteintes selon les premières données disponibles.",
-            "url": "https://www.begeek.fr/face-a-des-ventes-decevantes-apple-revise-a-la-baisse-le-budget-consacre-au-vision-pro-426288",
-            "urlToImage": "https://www.begeek.fr/app/uploads/2026/01/Apple-Vision-Pro.jpeg",
-            "publishedAt": "2026-01-03T08:00:26Z",
-            "content": "Face à des ventes décevantes de son casque Vision Pro, Apple revoit à la baisse ses investissements dans ce produit. Le groupe adapte ainsi sa stratégie, alors que les attentes initiales nont pas été… [+2777 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "author": "AKIBA PC Hotline!編集部",
-            "title": "第3世代iPad Air 256GBの国内版SIMフリーモデルが22,026円！中古品セール",
-            "description": "Apple製10.5インチタブレット「iPad Air 3 Wi-Fi+Cellular（A2123）」中古品が、イオシス各店でセール中。店頭価格は22,026円。12日（月）までのセール品で、保証期間は3か月。",
-            "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2074922.html",
-            "urlToImage": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2074/922/s1.jpg",
-            "publishedAt": "2026-01-03T00:30:00Z",
-            "content": "Apple10.5iPad Air 3 Wi-Fi+CellularA212322,026123 \r\n CSIM \r\n 2,224×1,668256GBCPUApple A12iPad OS 26Lightning1Apple Pencil"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "author": "新井 将彩成",
-            "title": "「第9世代iPad」のセルラーモデルが29,777円！中古品がイオシスで新春初売りセール",
-            "description": "2021年に発売されたAppleの10.2インチタブレット「（第9世代）iPad 2021 Wi-Fi+Cellular（A2604）」の中古品が、イオシス各店にて1月3日（土）～12日（月）の期間限定でセール中。",
-            "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2074941.html",
-            "urlToImage": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2074/941/a1.jpg",
-            "publishedAt": "2026-01-03T02:30:00Z",
-            "content": "2021Apple10.29iPad 2021 Wi-Fi+CellularA26041312 \r\n CSIM64GB29,7773 \r\n 2,160×1,620CPUA13 Bionic1Apple PencilOSiPadOS 26 \r\n 600"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fangraphs.com"
-            },
-            "author": "Ben Lindbergh",
-            "title": "Effectively Wild Episode 2422: The 2026 Minor League Free Agent Draft",
-            "description": "Ben Lindbergh, Meg Rowley, and Ben Clemens banter about the Astros signing Tatsuya Imai to a smaller-than-expected deal. Then (18:20) they continue a cherished podcast tradition by conducting the 13th annual Effectively Wild Minor League Free Agent Draft, in …",
-            "url": "https://blogs.fangraphs.com/effectively-wild-episode-2422-the-2026-minor-league-free-agent-draft/",
-            "urlToImage": "https://blogs.fangraphs.com/wp-content/uploads/2017/01/ewlogofi.png",
-            "publishedAt": "2026-01-03T08:21:01Z",
-            "content": "Ben Lindbergh, Meg Rowley, and Ben Clemens banter about the Astros signing Tatsuya Imai to a smaller-than-expected deal. Then (18:20) they continue a cherished podcast tradition by conducting the 13t… [+3072 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news-au",
-                "name": "ABC News (AU)"
-            },
-            "author": "Selina Green",
-            "title": "How this little bird ended up on South Australia's most wanted list",
-            "description": "The sighting of a single red-whiskered bulbul in the wild might not seem like a big deal, but this invasive pest could put crops and the environment at risk.",
-            "url": "https://www.abc.net.au/news/2026-01-03/authorities-hunting-escaped-invasive-bird-threatening-fruit-crop/106192434",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e3f8abc3348bbaa506f5e6b431bdf292?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-01-03T01:25:43Z",
-            "content": "With its striking black mohawk and red cheeks, the red-whiskered bulbul could be mistaken for a bird-watchers' delight.\r\nBut instead, this bird has become one of South Australia's \"most wanted\", prom… [+4424 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CHIP Online Deutschland"
-            },
-            "author": "Peter Zimmermann",
-            "title": "Apple räumt auf: Diese 25 Produkte werden nicht mehr verkauft",
-            "description": "Apple verabschiedet sich 2025 von 25 Produkten. Darunter ist auch das iPhone SE – und mit ihm der letzte Home-Button.",
-            "url": "https://www.chip.de/news/apple/apple-raeumt-auf-diese-25-produkte-werden-nicht-mehr-verkauft_e1319763-8051-4526-a7b8-1bafbca2bcb3.html",
-            "urlToImage": "https://quadro.burda-forward.de/ctf/6188b3fe-e69e-4919-adaa-326cf41d4f2a.383cf884-4fc8-42b3-9593-c413002fff08.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%282887%2C1982%29&hash=a4c13ea2ff169615154d544f50bc3801cb5d52e325ed036295547b556e9fa079",
-            "publishedAt": "2026-01-03T06:55:00Z",
-            "content": "Apple hat 2025 insgesamt 25 Produkte aus dem Programm genommen und damit einen klaren Schnitt mit älteren Designs vollzogen, wie das aserbaidschanische Nachrichtenportal \"News.AZ\" berichtet. Symbolis… [+1785 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CHIP Online Deutschland"
+                "id": "nhl-news",
+                "name": "NHL News"
             },
             "author": null,
-            "title": "Samsung mit neuer Preisstrategie: Das kosten die Galaxy-S26-Modelle",
-            "description": "Samsung plant eine ungewöhnliche Preisstrategie für die Galaxy-S26-Geräte. Das Flaggschiff soll zu bisherigen Einkaufspreisen angeboten werden, so Berichte. Warum das Unternehmen so plant.",
-            "url": "https://www.chip.de/news/handy/samsung-mit-neuer-preisstrategie-das-kosten-die-galaxy-s26-modelle_351b3a72-ff4d-4471-887a-acdedc90e2a7.html",
-            "urlToImage": "https://quadro.burda-forward.de/ctf/5b74d45f-d24c-45ef-acd4-edfb13f65359.7bc468b8-4696-46cd-8b8a-329e5dfb9d3c.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%282932%2C1380%29&hash=b86553d3ba83673aa990ef449bab650fbecf8c5fffb97187b6cf3fba4ce4048a",
-            "publishedAt": "2026-01-03T07:00:00Z",
-            "content": "Samsung plant laut Berichten aus Südkorea eine ungewöhnliche Preisstrategie für seine nächste FlaggschiffGeneration. Trotz steigender Produktionskosten sollen die Modelle der GalaxyS26Serie erneut zu… [+1993 chars]"
+            "title": "McKenna has hot day outdoors for Penn State at Beaver Stadium - NHL.com",
+            "description": "Projected No. 1 pick in 2026 NHL Draft has goal, 2 assists in OT loss against Michigan State",
+            "url": "https://www.nhl.com/news/gavin-mckenna-shows-off-skills-in-penn-state-game-at-beaver-stadium",
+            "urlToImage": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/aoetucxpnnoik7o9iil0.jpg",
+            "publishedAt": "2026-02-01T00:59:37Z",
+            "content": "McKenna talked before the game about outdoor hockey being nothing new to him. Growing up in Whitehorse, Yukon, he spent countless hours skating on a backyard rink, usually with his father, Willy.\r\nBu… [+3875 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Technews.tw"
+                "name": "Daily Beast"
             },
-            "author": "Atkinson",
-            "title": "高通與聯發科要用 N2P 製程，力拼拉近與蘋果效能上差距",
-            "description": "隨著半導體製程進入 2 奈米的全新紀元，全球晶片供應商的競爭已從單純的效能比拚，演變為一場關於台積電產能分配與架構設計的資源掠奪戰。根據wccftech的報導顯示，蘋果（Apple）已成功搶下台積電 2 奈米首批 N2 節點製程超過一半的產能，預計將用於 2026 年推出的 A20 與 A20 Pr...",
-            "url": "https://finance.technews.tw/2026/01/03/qualcomm-and-mediatek-to-use-n2p-process/",
-            "urlToImage": "https://img.technews.tw/wp-content/uploads/2025/09/25040329/qualcomm5.jpg",
-            "publishedAt": "2026-01-03T06:00:08Z",
-            "content": "2 wccftechApple 2 N2 2026 A20 A20 Pro QualcommMediaTek N2P\r\n N2 \r\n N2 Snapdragon 8 Elite Gen 6 9600Dimensity 9600 N2 \r\n N2 2 N2P N2P CPU \r\n N2P \r\nN2P N2 5% N2P \r\nN2P N2 N2 N2P \r\n N2P Snapdragon 8 Eli… [+245 chars]"
+            "author": "Scouted Staff",
+            "title": "USA Olympics Legend Airlifted From Course After Crash in Last Race Before 2026 Games - The Daily Beast",
+            "description": "Babbel forgoes flashcards and memorization in favor of real-world conversations.",
+            "url": "https://www.thedailybeast.com/save-up-to-50-on-a-lifetime-subscription-to-the-babbel-language-learning-app/",
+            "urlToImage": "https://www.thedailybeast.com/resizer/v2/3AKYH65XFNHPPPTLQXQ7JAAF2I.png?smart=true&auth=4f9906c5fded140b0ac65135ecfcd1e7271b2e4e78cd76aa3792e66d29830532&width=1200&height=630",
+            "publishedAt": "2026-01-31T22:58:12Z",
+            "content": "Scouted selects products independently. If you purchase something from our posts, we may earn a small commission.\r\nAfter finding your dream mattress, you may be tempted to settle for a basic bed fram… [+1341 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Matt O'Brien",
+            "title": "A chatbot entirely powered by humans, not artificial intelligence? This Chilean community shows why - AP News",
+            "description": "About 50 members of a community outside Chile’s capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command, in a message to highlight the environmental toll and water usa…",
+            "url": "https://apnews.com/article/ai-human-chatbot-chile-quiliai-data-centers-water-a798d7d1ae3b2fd7646ec5dbfc8a18dd",
+            "urlToImage": "https://dims.apnews.com/dims4/default/68bae1f/2147483647/strip/true/crop/7232x4819+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa9%2F79%2F2f9093e5bbba4ad8f03a7867b0a2%2F17c379f9877648218ee833058743b20f",
+            "publishedAt": "2026-01-31T22:52:00Z",
+            "content": "About 50 residents of a community outside Chiles capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command, i… [+2742 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "DW (English)"
+                "name": "MMA Fighting"
             },
-            "author": "Nicolas Martin",
-            "title": "Deutschlands Autoindustrie: Schicksalskampf um die Zukunft der Mobilität",
-            "description": "Deutsche Autos standen für Zuverlässigkeit und technische Perfektion. Doch nun brechen die Absätze ein, weil China, ihr größter Markt, auf Elektromobilität setzt. Kann Indien die von China hinterlassene Lücke füllen? Der Nürburgring in den westlichen Hügeln D…",
-            "url": "https://www.dw.com/de/deutschlands-autoindustrie-schicksalskampf-um-die-zukunft-der-mobilit%C3%A4t/a-75367240",
-            "urlToImage": "https://static.dw.com/image/67194522_6.jpg",
-            "publishedAt": "2026-01-03T06:21:00Z",
-            "content": "Der Nürburgring in den westlichen Hügeln Deutschlands ist die längste permanente Rennstrecke der Welt. Sie ist fast ein Jahrhundert alt und war Austragungsort zahlreicher Formel-1-Grand-Prix-Rennen.\r… [+8172 chars]"
+            "author": "Mike Heck",
+            "title": "Shavkat Rakhmonov expected to miss several more months after another surgery - MMA Fighting",
+            "description": "UFC welterweight Shavkat Rakhmonov’s octagon absense has been extended for several more months.",
+            "url": "https://www.mmafighting.com/ufc/469096/shavkat-rakhmonov-expected-to-miss-several-more-months-after-another-surgery",
+            "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/11/gettyimages-2188815534.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.538805809102&w=1200",
+            "publishedAt": "2026-01-31T22:42:24Z",
+            "content": "Shavkat Rakhmonov is likely going to miss most, if not all of 2026.\r\nThe undefeated Rakhmonov, who earned a UFC welterweight title shot after a spectacular start to his promotional run, is expected t… [+845 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Krista Torres",
+            "title": "This Wild Encounter Between A Boomer And A Millennial Has Gone Viral, And People Have LOTS To Say - BuzzFeed",
+            "description": "\"Not all heroes wear capes; some wear AirPods.\"",
+            "url": "https://www.buzzfeed.com/kristatorres/entitled-boomer-reddit",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-01/29/22/thumb/M3Mb-nJPa.jpg?crop=1250:654;0,5%26downsize=1250:*",
+            "publishedAt": "2026-01-31T20:30:45Z",
+            "content": "\"They can't shut off their 'always gotta be hustling' mindset, so they are actively doing dumb horseshit all fucking day long. If it's not mowing their lawn every other day, it's spending two hours a… [+212 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Ixbt.com"
+                "name": "NBCSports.com"
             },
-            "author": "mpak@ixbt.com (MPAK)",
-            "title": "Snapdragon 8 Elite Gen 6 и Dimensity 9600 будут немного технологичнее, чем Apple A20/20 Pro. Они будут производиться по техпроцессу TSMC N2P",
-            "description": "Платформы Snapdragon 8 Elite Gen 6, Dimensity 9600 и Apple A20/A20 Pro будут производиться по нормам 2 нм на мощностях TSMC. Однако техпроцессы всё же будут немного отличаться. Как сообщается, чипы Qualcomm и MediaTek будут немного технологичнее.  Apple уже з…",
-            "url": "https://www.ixbt.com/news/2026/01/03/snapdragon-8-elite-gen-6-dimensity-9600-apple-a20-20-pro-tsmc-n2p.html",
-            "urlToImage": "https://www.ixbt.com/img/n1/news/2026/0/6/Snapdragon-8-Elite-Gen-6-and-Dimensity-9600_large.jpg",
-            "publishedAt": "2026-01-03T11:30:00Z",
-            "content": "Snapdragon 8 Elite Gen 6, Dimensity 9600 Apple A20/A20 Pro 2 TSMC. . , Qualcomm MediaTek . \r\nApple N2 2026 , , Qualcomm MediaTek N2P. 5% , , .  \r\n . Fix Focus Digital, N2P MediaTek Qualcomm SoC. , Sn… [+190 chars]"
+            "author": "Michael David Smith",
+            "title": "Justin Jefferson: I definitely feel like we would have done better with Sam Darnold - NBC Sports",
+            "description": "“It’s definitely tough. It's tough to watch. I love that he’s in the Super Bowl. I’m happy for him, I want nothing but the best for him,\" Jefferson said of Darnold.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-jefferson-i-definitely-feel-like-we-would-have-done-better-with-sam-darnold",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/cdd2e2f/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2Fb9%2F2cbd84a24354a4ae4ff4eed7ed57%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2249622944",
+            "publishedAt": "2026-01-31T19:36:32Z",
+            "content": "Vikings wide receiver Justin Jefferson wonders what might have been for his team this season if it had kept quarterback Sam Darnold around.\r\nAsked in an interview with USA Today if he has thought abo… [+1584 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ben Kamisar",
+            "title": "12 states are hoping for early spots on Democrats' 2028 primary calendar - NBC News",
+            "description": "The Democratic Party took a small step toward setting its 2028 presidential primary calendar, telling a dozen state parties they can formally present bids to hold nominating contests at the beginning of the process",
+            "url": "https://www.nbcnews.com/politics/2028-election/democrats-2028-presidential-primary-calendar-dnc-early-voting-rcna256634",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260129-Ken-Martin-aa-857-253857.jpg",
+            "publishedAt": "2026-01-31T19:13:20Z",
+            "content": "The Democratic Party took a small step toward setting its 2028 presidential primary calendar, telling a dozen state parties they can formally present bids to hold nominating contests at the beginning… [+5668 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Ixbt.com"
+                "name": "Live Science"
             },
-            "author": "news@ixbt.com (Darth Sahara)",
-            "title": "Рынок складных смартфонов готовится к взрывному росту в 2026 году",
-            "description": "В 2025 году рынок складных смартфонов продемонстрировал рост в 10% по сравнению с 2024 годом, однако в 2026 году ожидается увеличение поставок на 30%. По данным аналитической компании IDC, ключевым фактором станет выход на рынок складного iPhone от Apple. Пом…",
-            "url": "https://www.ixbt.com/news/2026/01/03/rynok-skladnyh-smartfonov-gotovitsja-k-vzryvnomu-rostu-v-2026-godu.html",
-            "urlToImage": "https://www.ixbt.com/img/n1/news/2026/0/6/converted%20-%202026-01-03T070544.523_large.jpg",
-            "publishedAt": "2026-01-03T04:04:00Z",
-            "content": "2025 10% 2024 , 2026 30%. IDC, iPhone Apple.\r\n Apple, Samsung Huawei. Samsung, Flip Fold, - TriFold Wide Fold. Huawei, , , TriFold Huawei Mate XT Huawei Pura X.\r\n 2025 Huawei 68,9% .\r\n,  2026 :\r\n<ul>… [+438 chars]"
+            "author": "Victoria Atkinson",
+            "title": "Lifespan may be 50% heritable, study suggests - Live Science",
+            "description": "A new study suggests that lifespan might be 50% heritable — although for now, it's hard to know if the finding applies across diverse populations.",
+            "url": "https://www.livescience.com/health/ageing/lifespan-may-be-50-percent-heritable-study-suggests",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gwVZfGDoH4gbHJC74NxAka-1920-80.jpg",
+            "publishedAt": "2026-01-31T19:00:00Z",
+            "content": "Around 50% of a person's lifespan is determined by genetics, a new study suggests, more than doubling previous estimates of the heritability of longevity.\r\nThe new research, published Jan. 29 in the … [+5816 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Geeky Gadgets"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Roland Hutchinson",
-            "title": "The iPhone Fold Price Leak: Is Anyone Actually Going to Pay $2,500?",
-            "description": "Apple’s highly anticipated foldable iPhone, rumored to launch in late 2026, represents a significant evolution in smartphone technology. By combining advanced engineering with Apple’s signature design philosophy, this device could reshape the foldable phone m…",
-            "url": "https://www.geeky-gadgets.com/iphone-fold-price/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/foldable-iphone-2026-design-and-features_optimized-1.jpg",
-            "publishedAt": "2026-01-03T10:00:26Z",
-            "content": "Apple’s highly anticipated foldable iPhone, rumored to launch in late 2026, represents a significant evolution in smartphone technology. By combining advanced engineering with Apple’s signature desig… [+6309 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Geeky Gadgets"
-            },
-            "author": "Roland Hutchinson",
-            "title": "iOS 26.2: The Ultimate Lock Screen and Home Screen Makeover",
-            "description": "Apple’s iOS 26.2 introduces a new era of personalization and functionality, offering users unprecedented control over their lock screen and home screen. With features such as the liquid glass effect, advanced widget integration, and high-resolution wallpapers…",
-            "url": "https://www.geeky-gadgets.com/ios-26-2-lock-screen-and-home-screen/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/ios-26-2-liquid-glass-effect_optimized.jpg",
-            "publishedAt": "2026-01-03T06:00:20Z",
-            "content": "Apple’s iOS 26.2 introduces a new era of personalization and functionality, offering users unprecedented control over their lock screen and home screen. With features such as the liquid glass effect,… [+6355 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Geeky Gadgets"
-            },
-            "author": "Roland Hutchinson",
-            "title": "Samsung Galaxy Z Fold 8’s Best Feature is Back: Why the S Pen Changes Everything.",
-            "description": "Samsung continues to redefine the foldable device landscape with the Galaxy Z Fold 8 series, introducing a bold dual-model strategy that caters to a wide range of user preferences. This innovative approach offers two distinct options: a slim, portable version…",
-            "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-s-pen-2/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/galaxy-z-fold-8-slim-portable-design_optimized.jpg",
-            "publishedAt": "2026-01-03T12:00:10Z",
-            "content": "Samsung continues to redefine the foldable device landscape with the Galaxy Z Fold 8 series, introducing a bold dual-model strategy that caters to a wide range of user preferences. This innovative ap… [+6357 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Geeky Gadgets"
-            },
-            "author": "Roland Hutchinson",
-            "title": "Samsung’s Secret Weapon: The Galaxy Z Fold 8 Wide to Beat the iPhone Fold",
-            "description": "Samsung is preparing to expand its foldable smartphone lineup with a bold new addition, internally codenamed SMF971. Unlike the existing Galaxy Z Fold series, this device introduces a wider, passport-style design aimed at enhancing productivity and usability.…",
-            "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-wide-2/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/samsung-galaxy-z-fold-8-wide-design_optimized.jpg",
-            "publishedAt": "2026-01-03T08:00:03Z",
-            "content": "Samsung is preparing to expand its foldable smartphone lineup with a bold new addition, internally codenamed SMF971. Unlike the existing Galaxy Z Fold series, this device introduces a wider, passport… [+5481 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ixbt.com"
-            },
-            "author": "dexter@ixbt.com (Dexter)",
-            "title": "Прогноз: новая платформа Apple M5 Max может превзойти M4 Max на 50% и сравняться по производительности с настольной GeForce RTX 4070",
-            "description": "В первой половине наступившего года компания Apple готовится представить новое поколение своих однокристальных систем — Apple M5 Pro, M5 Max и M5 Ultra. Ожидания от новинок крайне высоки, особенно после того, как базовый чип M5 в предварительных тестах продем…",
-            "url": "https://www.ixbt.com/news/2026/01/03/apple-m5-max-m4-max-50-geforce-rtx-4070.html",
-            "urlToImage": "https://www.ixbt.com/img/n1/news/2026/0/6/Apples-M5-Max-728x551.jpg",
-            "publishedAt": "2026-01-03T12:39:00Z",
-            "content": "Apple — Apple M5 Pro, M5 Max M5 Ultra. , , M5 190% Cyberpunk 2077 ( ) M4. C  M5 Max.\r\n Reddit , M5 Max M4 Max Nvidia ( , ). Notebookcheck Apple Silicon.\r\n  Cyberpunk 2077  Assassin’s Creed Shadows   … [+397 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Survivalblog.com"
-            },
-            "author": "Avalanche Lily",
-            "title": "Editors’ Prepping Progress",
-            "description": "To be prepared for a crisis, every Prepper must establish goals and make both long-term and short-term plans. In this column, the SurvivalBlog editors review their week’s prep activities and planned prep activities for the coming week. These range from health…",
-            "url": "https://survivalblog.com/2026/01/03/editors-prepping-progress-392/",
-            "urlToImage": "https://survivalblog.com/wp-content/uploads/2025/12/Maglite_Serial_Number.jpg",
-            "publishedAt": "2026-01-03T01:04:24Z",
-            "content": "To be prepared for a crisis, every Prepper must establish goals and make both long-term and short-term plans. In this column, the SurvivalBlog editors review their week’s prep activities and planned … [+6579 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CinemaBlend"
-            },
-            "author": "Heidi Venable",
-            "title": "Of Course, Rachel Zegler Celebrated The New Year With A Gorgeous Backless Sweater",
-            "description": "My closet needs this.",
-            "url": "https://www.cinemablend.com/movies/rachel-zegler-celebrated-new-year-gorgeous-backless-sweater",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/aYtiiDRqBpjihy9ZWggWVD-1280-80.jpg",
-            "publishedAt": "2026-01-03T01:30:58Z",
-            "content": "When it comes to winter fashion, sometimes you just can’t tell what you’re going to get. We’ve seen Kourtney Kardashian dressed as Santa in Target, Alexandra Daddario sporting swimwear in the snow, a… [+2799 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ozbargain.com.au"
-            },
-            "author": "Craze",
-            "title": "20x Flybuys Points on Apple Gift Cards (in Store Only)",
-            "description": "Just noticed banner in store. 20x flybuys points awarded, up to max 50k points per customer per day. Looks like all denominations applicable for this deal.",
-            "url": "https://www.ozbargain.com.au/node/942931",
-            "urlToImage": "https://files.ozbargain.com.au/n/31/942931x.jpg?h=4fcd2232",
-            "publishedAt": "2026-01-03T00:44:48Z",
-            "content": "Just noticed banner in store.\r\n20x flybuys points awarded, up to max 50k points per customer per day. Looks like all denominations applicable for this deal."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ozbargain.com.au"
-            },
-            "author": "ozb-plshelpmywallet",
-            "title": "Apple Airtag 4-pack $108.00 (with $10 Signup Bonus) (shipping $8.95/$0 c&c)@ digiDirect",
-            "description": "Lowest ive seen recently. Much better than trying to price match jb",
-            "url": "https://www.ozbargain.com.au/node/942969",
-            "urlToImage": "https://files.ozbargain.com.au/n/69/942969l.jpg?h=9590b0cc",
-            "publishedAt": "2026-01-03T04:31:33Z",
-            "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ozbargain.com.au"
-            },
-            "author": "narky",
-            "title": "Garmin Inreach Messenger (~293 aud / 196 usd)",
-            "description": "Looks like a solid deal to me. The price is approximate as it includes taxes and import fees, as well as the exchange rate. Perhaps price has come down for to the new inreach mini 3 and android/apple …",
-            "url": "https://www.ozbargain.com.au/node/942981",
-            "urlToImage": "https://files.ozbargain.com.au/n/81/942981x.jpg?h=3abfc338",
-            "publishedAt": "2026-01-03T06:16:55Z",
-            "content": "This post contains affiliate links. OzBargain might earn commissions when you click through and make purchases. Please see this page for more information.\r\nLooks like a solid deal to me. The price is… [+233 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Maclife.de"
-            },
-            "author": "Sven T. Möller",
-            "title": "Errichte dein Traum-Smarthome",
-            "description": "Licht, Kameras, Aktionen: So wird dein Zuhause endlich smart! (Weiterlesen)",
-            "url": "https://www.maclife.de/news/dein-traum-smarthome-apple-homekit-matter-airplay-erklaert-100126557.html",
-            "urlToImage": "https://www.maclife.de/media/maclife/styles/tec_frontend_opengraph/public/images/editors/2026_01/image-126557--4618427.jpeg?itok=A8RCQNHS",
-            "publishedAt": "2026-01-03T09:00:00Z",
-            "content": "Ganz gleich, ob du in einer gemütlichen Einzimmerwohnung lebst oder in einem weitläufigen Einfamilienhaus: Dein Zuhause kann smarter werden, als du vielleicht denkst.\r\nApple setzt dabei auf zwei star… [+728 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Maclife.de"
-            },
-            "author": "Sven T. Möller",
-            "title": "Traum-Smarthome: Multiroom-Audio & -Video",
-            "description": "Erstklassiges Entertainment, völlig kabellos. (Weiterlesen)",
-            "url": "https://www.maclife.de/news/smarthome-traum-multiroom-audio-video-airplay-100126558.html",
-            "urlToImage": "https://www.maclife.de/media/maclife/styles/tec_frontend_opengraph/public/images/editors/2026_01/image-126558--4618431.jpg?itok=xu5oGo7y",
-            "publishedAt": "2026-01-03T11:00:00Z",
-            "content": "Smarthome-Geräte können viele clevere Dinge leisten, doch Musik und Filme kabellos von einem Gerät zum nächsten zu schicken fühlt sich immer noch magisch an. Du kannst Inhalte per AirPlay drahtlos vo… [+690 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slate Magazine"
-            },
-            "author": "Dahlia Lithwick",
-            "title": "How To Break America, Legally",
-            "description": "Sand in the gears can slow the  authoritarian roll, even if we can’t stop it.",
-            "url": "https://slate.com/podcasts/amicus/2026/01/scotus-and-project-2025-ushered-in-magas-lawlessness",
-            "urlToImage": "https://compote.slate.com/images/24c63d16-8900-46e1-a529-a8c4f6aeab2d.png?crop=1080%2C720%2Cx100%2Cy0&width=1560",
-            "publishedAt": "2026-01-03T10:30:00Z",
-            "content": "In a special new year retrospective, Amicus host Dahlia Lithwick revisits an important episode from early 2025. Back at the beginning of February, Kim Lane Scheppele, the Laurance S. Rockefeller Prof… [+996 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Applech2.com"
-            },
-            "author": "applech2",
-            "title": "2013年にリリースされたPNG画像圧縮ツール「Pngyu」がmacOS 26 Tahoeに対応。",
-            "description": "2013年にリリースされたPNG画像圧縮ツール「Pngyu」がmacOS 15 SequoiaやmacOS 26 Tahoeに対応しています。詳細は以下から。 　Pngyuは2013年04月にnukesaq88さんが公 […]\nThe post 2013年にリリースされたPNG画像圧縮ツール「Pngyu」がmacOS 26 Tahoeに対応。 first appeared on AAPL Ch..",
-            "url": "https://applech2.com/archives/20260103-pngyu-pngquant-tool-support-macos-26-tahoe.html",
-            "urlToImage": "https://applech2.com/wp-content/uploads/2026/01/Pngyu-for-Mac-pngquant-tool-Hero.webp",
-            "publishedAt": "2026-01-03T06:06:36Z",
-            "content": "2013PNGPngyumacOS 15 SequoiamacOS 26 Tahoe\r\nPngyu201304nukesaq88PNG/pngquantGUIpngquant24bit/32bitPNG8bitPngyu12macOS 26 Tahoe\r\nPngyuPNGPNGImageAlphaTinyPNGpngquantpngquant24bit/32bitPNG8bit\r\nPNG Ima… [+168 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ZDNet"
-            },
-            "author": "Maria Diaz",
-            "title": "7 smart plug tricks that instantly made my home feel more automated",
-            "description": "Smart plugs are a simple, affordable way to level up your home. Here are some clever ways I use them.",
-            "url": "https://www.zdnet.com/home-and-office/smart-home/best-smart-plug-tricks/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/a87068675d4f276d6c242ade4afb702c089e0b0b/2025/08/01/0dcc6238-9b4f-488e-a87a-93f50c46c56d/unplug.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-01-03T02:00:42Z",
-            "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nRemember The Clapper? The plug-in staple may have made for a catchy jingle in the 1980s, but it could also be considered as a … [+8272 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android.com.pl"
-            },
-            "author": "Mateusz Nowak",
-            "title": "Masz postanowienia noworoczne? Te aplikacje ułatwią ci ich realizację",
-            "description": "Styczeń to czas, w którym często zaczynamy realizację noworocznych postanowień. Technologia nas w tym nie wyręczy, ale może okazać się pomocna. Dowodem na to są aplikacje na telefon, które umożliwiają wygodne śledzenie postępów i ułatwiają wytrwanie w nowych …",
-            "url": "https://android.com.pl/tech/1001049-postanowienia-noworoczne-aplikacje/",
-            "urlToImage": "https://static.android.com.pl/uploads/2025/12/AdobeStock_1662476210-1280x853.jpeg",
-            "publishedAt": "2026-01-03T09:34:00Z",
-            "content": "Stycze to czas, w którym czsto zaczynamy realizacj noworocznych postanowie. Technologia nas w tym nie wyrczy, ale moe okaza si pomocna. Dowodem na to s aplikacje na telefon, które umoliwiaj wygodne l… [+4323 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android.com.pl"
-            },
-            "author": "Łukasz Pająk",
-            "title": "Test Renault 4 E-Tech. Idealny przykład udanego elektryka",
-            "description": "Zaczynamy test Renault 4 E-Tech w najmocniejszej i niemalże najlepiej wyposażonej odsłonie, co wcale nie musi oznaczać, że będzie drogo. To właśnie pomysł Francuzów na wskrzeszenie jednej z legend sprzed lat, bo obok Renault 5, właśnie czwórka staje się wielo…",
-            "url": "https://android.com.pl/moto/1003707-test-renault-4-e-tech-recenzja-opinia/",
-            "urlToImage": "https://static.android.com.pl/uploads/2025/12/test-renault-4-e-tech-recenzja-opinia-568-1280x853.jpg",
-            "publishedAt": "2026-01-03T08:23:00Z",
-            "content": "Zaczynamy test Renault 4 E-Tech w najmocniejszej i niemale najlepiej wyposaonej odsonie, co wcale nie musi oznacza, e bdzie drogo. To wanie pomys Francuzów na wskrzeszenie jednej z legend sprzed lat,… [+37985 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "netzwelt"
-            },
-            "author": "Nicolas Reinhardt",
-            "title": "NBA im kostenlosen Live-Stream: So schaut ihr Hawks vs. Knicks",
-            "description": "In der elften NBA-Gameweek wartet die Begegnung zwischen den Atlanta Hawks und den New York Knicks. Hier seht ihr, wie ihr die Partie gratis im Live-Stream mitverfolgen könnt.\nDieser Artikel wurde einsortiert unter \nApple TV,Amazon Fire TV,Amazon Prime Video,…",
-            "url": "https://www.netzwelt.de/news/249783-nba-kostenlosen-live-stream-so-schaut-hawks-vs-knicks.html",
-            "urlToImage": "https://img.netzwelt.de/dw1600_dh900_sw1920_sh1080_sx0_sy86_sr16x9_nu2/picture/original/2025/05/basketball-korb-symbolbild-434668.jpeg",
-            "publishedAt": "2026-01-03T00:00:00Z",
-            "content": "US-SPORT IM LIVE-STREAM: AMERICAN FOOTBALL, BASKETBALL UND CO. ÜBER DAS INTERNET SCHAUEN\r\nIn dieser Nacht kommt es in der NBA zum Match zwischen den Atlanta Hawks und den New York Knicks. So schaut i… [+3473 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "netzwelt"
-            },
-            "author": "Nicolas Reinhardt",
-            "title": "Thunder vs. Warriors: So schaut ihr die NBA im gratis Live-Stream",
-            "description": "In Woche elf der NBA duellieren sich die Oklahoma City Thunder und die Golden State Warriors. Hier seht ihr, welche kostenlosen Empfangsmöglichkeiten sich euch im Live-Stream bieten.\nDieser Artikel wurde einsortiert unter \nApple TV,Amazon Fire TV,Amazon Prime…",
-            "url": "https://www.netzwelt.de/news/249781-thunder-vs-warriors-so-schaut-nba-gratis-live-stream.html",
-            "urlToImage": "https://img.netzwelt.de/dw1600_dh900_sw1920_sh1080_sx0_sy100_sr16x9_nu2/picture/original/2025/10/basketball-korb-symbolbild-449530.jpeg",
-            "publishedAt": "2026-01-03T02:30:00Z",
-            "content": "US-SPORT IM LIVE-STREAM: AMERICAN FOOTBALL, BASKETBALL UND CO. ÜBER DAS INTERNET SCHAUEN\r\nIn der Nacht von Freitag auf Samstag, dem 03. Januar. treffen die Oklahoma City Thunder auf die Golden State … [+3477 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Svetandroida.cz"
-            },
-            "author": "Jakub Kárník",
-            "title": "Unikátní sluchátka Sonos Ace zlevnila na minimum! Osloví zvukem a kvalitní konstrukcí",
-            "description": "Sonos konečně před časem vstoupil do světa sluchátek. Sonos Ace jsou první over-ear sluchátka od značky proslavené multiroom reproduktory a soundbary. Při uvedení stála 12 490 Kč, postupně klesla na 10 490 Kč. Nyní je na Alze seženete za 7 343 Kč s kódem VYPR…",
-            "url": "https://www.svetandroida.cz/sonos-ace-sluchatka-sleva-alza/",
-            "urlToImage": "https://www.svetandroida.cz/media/2026/01/sonos-ace.jpg",
-            "publishedAt": "2026-01-03T09:00:00Z",
-            "content": "Sonos konen ped asem vstoupil do svta sluchátek. Sonos Ace jsou první over-ear sluchátka od znaky proslavené multiroom reproduktory a soundbary. Pi uvedení stála 12 490 K, postupn klesla na 10 490 K.… [+3735 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Adslzone.net"
-            },
-            "author": "Iván Dávila",
-            "title": "¿Se puede devolver un móvil que me han regalado por Reyes? Cuidado con abrirlo",
-            "description": "Cada mañana del 6 de enero, en muchos hogares de España, la ilusión reina por encima de las ganas de dormir. Llega ese esperado momento de abrir los regalos, y ahí el tan deseado móvil que llevabas tiempo queriendo. Pero no es el color que quería, o el tamaño…",
-            "url": "https://www.adslzone.net/noticias/internet/devolver-movil-regalo-reyes-2026/",
-            "urlToImage": "https://www.adslzone.net/app/uploads-adslzone.net/2024/01/Regalo-de-Reyes-Magos-min.png",
-            "publishedAt": "2026-01-03T11:58:14Z",
-            "content": "Como es normal cuando recibimos un producto de tecnología, el primer impulso siempre es abrir la caja, encenderlo, quitarle los plásticos protectores y trastear un poco con él antes de decidir si te … [+4086 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Adslzone.net"
-            },
-            "author": "Iván Dávila",
-            "title": "Si estrenas móvil u ordenador, activa esto para asegurar todos tus datos",
-            "description": "Estrenar tecnología es uno de los grandes placeres de estas fiestas, pero hay que hacerlo correctamente. Los expertos advierten que, antes de instalar WhatsApp o Instagram, lo que muchos hacen, deberías blindar tus cuentas. Con las prisas de empezar a usar lo…",
-            "url": "https://www.adslzone.net/noticias/moviles/activar-verificacion-dos-pasos-movil-nuevo/",
-            "urlToImage": "https://www.adslzone.net/app/uploads-adslzone.net/2025/12/Chica-contenta-revisando-ofertas-moviles-smartphone.png",
-            "publishedAt": "2026-01-03T07:58:30Z",
-            "content": "Tanto si Papá Noel o los Reyes Magos te han traído el último modelo de iPhone o Android, como si has renovado tu ordenador portátil para el teletrabajo, hay un ajuste de seguridad que no debes ignora… [+3760 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Adslzone.net"
-            },
-            "author": "Iván Dávila",
-            "title": "Si los Reyes traen un móvil a tu hijo, activa esto antes de dárselo",
-            "description": "Quedan pocas horas para la noche más mágica del año. En millones de cartas enviadas a Oriente, el principal deseo, que se repite continuamente, es el primer teléfono móvil. Y si sus Majestades han decidido cumplir ese deseo, enhorabuena, tu hijo va a ser la p…",
-            "url": "https://www.adslzone.net/noticias/moviles/movil-regalo-ninos-limite-uso/",
-            "urlToImage": "https://www.adslzone.net/app/uploads-adslzone.net/2025/07/grupo-de-ninos-tomando-un-selfie-en-el-parque.jpg",
-            "publishedAt": "2026-01-03T11:58:39Z",
-            "content": "Como expertos en tecnología, desde ADSLZone advertimos que un teléfono móvil, sobre todo si es el primero en la vida de un niño, no es un juguete, con todo lo bueno y lo malo que eso implica. El prob… [+4744 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mobilelaby.com"
-            },
-            "author": "Yusuke Sakakura",
-            "title": "Amazon初売りにiPhone 15 Plus / 14、Beats製品が登場。AirPods Pro 3も年始からお得に",
-            "description": "Amazonの初売り（スマイルSALE 初売り）が1月3日からスタートし、iPhone 15 PlusとiPhone 14がセール対象になりました。\n\niPhone 15 Plusは108,600円（13%オフ）、iPhone 14は82,800円（14%オフ）で購入可能に。AirPods Pro 3も年始から値下げが続いており、通常39,800円に対して37,232円で販売されています。\n\n\n\nBeats製品もお得に\n\niPhone 15 Plusは、6.7インチの大画面で動画・ゲーム・SNSが見やすいモデル。…",
-            "url": "https://mobilelaby.com/blog-entry-iphone-15-plus-iphone-14-amazon-new-year-sale-2026.html",
-            "urlToImage": "https://i0.wp.com/mobilelaby.com/wp/wp-content/uploads/Apple-iPhone-15-lineup-AirPods-Pro-2nd-generation-USB-C-connection-230912_big.jpg?fit=1280%2C853&ssl=1",
-            "publishedAt": "2026-01-03T01:35:44Z",
-            "content": "AmazonSALE 13iPhone 15 PlusiPhone 14\r\niPhone 15 Plus108,60013%iPhone 1482,80014%AirPods Pro 339,80037,232"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mobilelaby.com"
-            },
-            "author": "Yusuke Sakakura",
-            "title": "Amazon初売りにAnker190製品超が登場。最大60%オフで充電環境を総入れ替えしてみては？",
-            "description": "1月7日まで開催されているAmazonの初売りセールにAnker製品が登場しました。\n\nモバイルプロジェクターやイヤホン、ポータブルスピーカーなど、対象商品は190製品以上。割引率は最大60％オフと、新年の買い替えや気になっていたけど後回しにしたアイテムを買うのに最適なセールです。\n\n人気の充電製品も見どころ。ケーブルや端子一体型でケーブル忘れを防げるモバイルバッテリーをはじめ、最新スマホやMacBookなどノートPCの充電にも使いやすい急速充電器、ブラックフライデーで人気だった絡みにくい柔らかめケーブルまで、人…",
-            "url": "https://mobilelaby.com/blog-entry-amazon-new-year-sale-2026-anker.html",
-            "urlToImage": "https://i0.wp.com/mobilelaby.com/wp/wp-content/uploads/2026newyear-kv.webp.png?fit=1280%2C629&ssl=1",
-            "publishedAt": "2026-01-03T04:20:06Z",
-            "content": "Yusuke Sakakura\r\nYusuke Sakakura\r\n16SE\r\n17AmazonAnker\r\n19060\r\nMacBookPC\r\nUSB\r\nUSB-C\r\nLightning"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PC Games"
-            },
-            "author": "Michael Grünwald",
-            "title": "PC Games Podcast #201: Der große Gaming-Ausblick - 2026 wird fantastisch!",
-            "description": "Nach einem spektakulären Jahr 2025 warten in den nächsten zwölf Monaten erneut etliche Blockbuster und Indie-Hits auf uns. In Folge 201 des PC Games Podcast blicken wir in die Zukunft.",
-            "url": "https://www.pcgames.de/PC-Games-Podcast-Brands-279138/News/Gaming-Vorschau-GTA-6-James-Bond-Gothic-Remake-Talk-Diskussion-1489103/",
-            "urlToImage": "https://www.pcgames.de/screenshots/original/2025/12/PC-Games-Podcast-201-pc-games_artwork.jpg",
-            "publishedAt": "2026-01-03T09:02:00Z",
-            "content": "Das Jahr 2025 ist zu Ende, doch das macht gar nichts, denn 2026 erwartet uns bereits das nächste aufregende Gaming-Jahr. Es geht auch nach Clair Obscur: Expedition 33, Kingdom Come: Deliverance 2 und… [+2680 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newsshooter"
-            },
-            "author": "Matthew Allard ACS",
-            "title": "Apple TV releases a ton of new F1 The Movie BTS Footage",
-            "description": "Apple TV has released a lot of new BTS footage from the making of the F1 The Movie. The F1 movie was primarily shot on the Sony VENICE 2; however, there was a lot of in-car footage that was shot on a custom camera that was developed specifically for the movie…",
-            "url": "https://www.newsshooter.com/2026/01/02/apple-tv-releases-a-ton-of-new-f1-the-movie-bts-footage/",
-            "urlToImage": "https://www.newsshooter.com/wp-content/uploads/2026/01/F1®-The-Movie-—-APXGP-Innovations-Behind-the-Scenes-Apple-TV.jpeg",
-            "publishedAt": "2026-01-03T05:20:08Z",
-            "content": "Apple TV has released a lot of new BTS footage from the making of the F1 The Movie. \r\nThe F1 movie was primarily shot on the Sony VENICE 2; however, there was a lot of in-car footage that was shot on… [+1818 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Overclockers.ru"
-            },
-            "author": null,
-            "title": "Информатор раскрыл стартовые цены серии Galaxy S26 совместно с Galaxy Z Fold8 и Flip8",
-            "description": "Ожидается, что Samsung будет вынуждена экономить, чтобы конкурировать с Apple",
-            "url": "https://overclockers.ru/blog/breaking-news/show/246778/Informator-raskryl-startovye-ceny-serii-Galaxy-S26-sovmestno-s-Galaxy-Z-Fold8-i-Flip8",
+            "author": "ABC News",
+            "title": "Another winter storm threatens to drop more snow as dangerous cold lingers - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/US/winter-storm-threatens-drop-snow-dangerous-cold-lingers/story?id\\\\u003d129734353",
             "urlToImage": null,
-            "publishedAt": "2026-01-03T06:36:51Z",
-            "content": "overclockers.ru\r\n , \r\n :\r\nIP address : 66.70.199.236Request URL : https://overclockers.ru/blog/breaking-news/show/246778/Informator-raskryl-startovye-ceny-serii-Galaxy-S26-sovmestno-s-Galaxy-Z-Fold8-… [+117 chars]"
+            "publishedAt": "2026-01-31T18:11:59Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Overclockers.ru"
+                "name": "Warhammer-community.com"
             },
             "author": null,
-            "title": "Чипы Snapdragon 8 Elite Gen 6 и Dimensity 9600 будут производить по техпроцессу TSMC N2P вместо N2",
-            "description": "Это даст им возможность сократить отставание в энергоэффективности от процессоров Apple A20 и A20 Pro",
-            "url": "https://overclockers.ru/blog/Scorpion81/show/246794/Chipy-Snapdragon-8-Elite-Gen-6-i-Dimensity-9600-budut-proizvodit-po-tehprocessu-TSMC-N2P-vmesto-N2",
-            "urlToImage": null,
-            "publishedAt": "2026-01-03T05:55:52Z",
-            "content": "overclockers.ru\r\n , \r\n :\r\nIP address : 51.161.14.41Request URL : https://overclockers.ru/blog/Scorpion81/show/246794/Chipy-Snapdragon-8-Elite-Gen-6-i-Dimensity-9600-budut-proizvodit-po-tehprocessu-TS… [+104 chars]"
+            "title": "Saturday Pre-orders – Chaos Space Marines and Marauders running wild - Warhammer Community",
+            "description": "Check out today’s latest pre-orders.",
+            "url": "https://www.warhammer-community.com/articles/uapels1d/saturday-pre-orders-chaos-space-marines-and-marauders-running-wild",
+            "urlToImage": "https://assets.warhammer-community.com/preorders-jan31-1-feature-imevzukpit.jpg",
+            "publishedAt": "2026-01-31T17:58:01Z",
+            "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Koc.com.tw"
+                "name": "Variety"
             },
-            "author": "Shengti",
-            "title": "實體鍵盤控有福了！Clicks 推出 iPhone MagSafe 鍵盤電池，還做了一部運行 Android 16 的「反滑手機」",
-            "description": "過去幾年，手機設計幾乎清一色走向大螢幕、全觸控與極簡外型，但也讓不少使用者開始懷念「按鍵回饋」與單手操作的踏實感。主打實體鍵盤的 Clicks ，近來再次出手，不只重新思考鍵盤該怎麼與手機共存，甚至把鍵盤直接變成一顆能磁吸在手機背後的電池模組。\n這次的轉變，讓鍵盤不再受限於機型，也讓 Android 使用者終於能加入這場復古又實用的嘗試。除此之外，Clicks 還同步推出一款刻意遠離「滑不停」的 Android 手機，試圖替重度使用者找回手機原本該有的工具感。\nThe post 實體鍵盤控有福了！Clicks 推…",
-            "url": "https://www.koc.com.tw/archives/625678",
-            "urlToImage": "https://www.koc.com.tw/wp-content/uploads/2026/01/20260103190307_0_be213a.jpg",
-            "publishedAt": "2026-01-03T11:34:42Z",
-            "content": "ClicksAndroid Clicks Android \r\n Clicks iPhone CES 2024 BlackBerry iPhone \r\nClicks Clicks Power Keyboard MagSafe\r\nClicks Power Keyboard iPhone MagSafe iPhone Android \r\n Clicks Power Keyboard iPhone iP… [+444 chars]"
+            "author": "Jack Dunn",
+            "title": "Box Office: ‘Iron Lung’ Sinks the Competition With $8.9 Million; ‘Send Help’ Survives in Second Place - Variety",
+            "description": "Mark 'Markiplier' Fischbach's indie horror 'Iron Lung' opened at No.1 on Friday.",
+            "url": "https://variety.com/2026/film/box-office/box-office-iron-lung-send-help-melania-1236644154/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/01/MCDIRLU_EC003.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-01-31T16:41:00Z",
+            "content": "A flurry of newcomers from familiar faces (Sam Raimi and Jason Statham) and unexpected places (Melania Trump and Mark “Markiplier” Fischbach) hit the box office on Friday, but Fischbach’s indie horro… [+2884 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Donanimhaber.com"
+                "name": "Live Science"
             },
-            "author": "",
-            "title": "iPhone çipli uygun fiyatlı MacBook 2026’da gelebilir",
-            "description": "Teknoloji devi Apple, iPhone çipi kullanan uygun fiyatlı MacBook planlarıyla gündemde. İşte 2026 yılında gelmesi beklenen 12,9 inç MacBook’un beklenen özellikleri:",
-            "url": "https://www.donanimhaber.com/iphone-cipli-uygun-fiyatli-macbook-2026-da-gelebilir--200440",
-            "urlToImage": "https://www.donanimhaber.com/images/images/haber/200440/src_340x1912xiphone-cipli-uygun-fiyatli-macbook-2026-da-gelebilir.jpg",
-            "publishedAt": "2026-01-03T10:00:00Z",
-            "content": "a').click(); event.preventDefault();\"&gt;Tam Boyutta GörApple, iPhone çipli MacBook iddialaryla teknoloji dünyasnda yeniden dikkatleri üzerine çekti. Son szntlara göre irket, 2026 baharnda daha geni … [+2051 chars]"
+            "author": "Ivan Farkas",
+            "title": "Astronomers spot 'time-warped' supernovas whose light both has and hasn't reached Earth - Live Science",
+            "description": "Will two rare supernovas finally tell us how fast the universe is expanding? Perhaps, but we'll have to wait for it for them to 'reappear'.",
+            "url": "https://www.livescience.com/space/cosmology/astronomers-spot-2-warped-supernovas-whose-light-both-has-and-hasnt-reached-earth",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/EmrZpViJwgfYNBAvmcuCCm-1396-80.jpg",
+            "publishedAt": "2026-01-31T16:00:00Z",
+            "content": "Two incredibly rare supernovas that erupted billions of years ago provide a unique opportunity to explain cosmology's biggest mystery — How fast is the universe expanding?\r\nBut there's a twist: Even … [+7204 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lena H. Sun",
+            "title": "What South Carolina’s soaring measles outbreak means for the rest of the U.S. - The Washington Post",
+            "description": "More than 840 measles infections have been reported in South Carolina, surpassing the tally in Texas last year. Public health experts say it shows the risks when vaccination coverage falls.",
+            "url": "https://www.washingtonpost.com/health/2026/01/31/south-carolina-measles/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LDBPAVYOSH55TRAN6U2UNVQNQ.jpg&w=1440",
+            "publishedAt": "2026-01-31T14:32:19Z",
+            "content": "South Carolina is battling the countrys largest measles outbreak since the disease was eliminated from the United States more than a quarter century ago, with more than 840 cases overwhelmingly in un… [+382 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Smartmania.cz"
+                "name": "Motley Fool"
             },
-            "author": "Dominik Vlasák",
-            "title": "iPhone Air se Applu příliš nepovedl. Zachrání druhou generaci tahle dvě vylepšení?",
-            "description": "<ul>\n<li>Příští generace iPhonu Air má nabídnout hned dvě vylepšení</li>\n<li>Jednu najdeme na zadní straně, druhá se má ukrývat uvnitř zařízení</li>\n<li>Ne, ani jedna z nich bohužel není větší baterie</li>\n</ul>\nOd iPhonu Air si Apple jistě sliboval mnohem ví…",
-            "url": "https://smartmania.cz/iphone-air-se-applu-prilis-nepovedl-zachrani-druhou-generaci-tahle-dve-vylepseni/",
-            "urlToImage": "https://smartmania.cz/wp-content/uploads/2025/10/iphone-air.jpg",
-            "publishedAt": "2026-01-03T07:00:44Z",
-            "content": "<ul><li>Pítí generace iPhonu Air má nabídnout hned dv vylepení</li><li>Jednu najdeme na zadní stran, druhá se má ukrývat uvnit zaízení</li><li>Ne, ani jedna z nich bohuel není vtí baterie</li></ul>Od… [+2220 chars]"
+            "author": "Neha Chamaria, Neha Chamaria",
+            "title": "My 5 Favorite Ultra-High-Yield Dividend Stocks to Buy for 2026 - The Motley Fool",
+            "description": "These monster dividend stocks yielding up to 7.7% are solid buys to generate steady income in 2026.",
+            "url": "https://www.fool.com/investing/2026/01/31/my-5-favorite-ultra-high-yield-dividend-stocks-to/",
+            "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F850456%2Fgettyimages-2155653655.jpg&w=1200&op=resize",
+            "publishedAt": "2026-01-31T14:10:00Z",
+            "content": "These monster dividend stocks yielding up to 7.7% are solid buys to generate steady income in 2026.While growth stocks often steal the headlines, ultra-high-yield dividend stocks with a strong track … [+3511 chars]"
         }
     ]
 }
