@@ -7,7 +7,17 @@ export class NewsItem extends Component {
   }
 
   render() {
-    let { title, description, mode, color, imgUrl, newsUrl, author, date } = this.props;
+    let {
+      title,
+      description,
+      mode,
+      color,
+      imgUrl,
+      newsUrl,
+      author,
+      date,
+      source,
+    } = this.props;
 
     let blue = "#0d6efd";
     let red = "#dc3545";
@@ -27,6 +37,28 @@ export class NewsItem extends Component {
         color: "white",
       };
     }
+    
+    let badgeStyle;
+    if (color === yellow) {
+      badgeStyle = {
+        backgroundColor: yellow,
+        color: "black",
+      };
+    } else {
+      badgeStyle = {
+        backgroundColor: color,
+        color: "white",
+      };
+    }
+
+    /*
+    let badgeStyle = {
+      backgroundColor: "black",
+      color: "white",
+      //opacity: 0.8,
+      border : "1px solid white",
+    };
+    */
 
     return (
       <div className="h-100">
@@ -38,14 +70,35 @@ export class NewsItem extends Component {
             color: mode === "dark" ? "white" : "black",
           }}
         >
-          <img src={imgUrl ? imgUrl : `${process.env.PUBLIC_URL}/favicon.svg`} className="card-img-top news-img" alt="news" />
+          <div className="position-relative">
+            <img
+              src={imgUrl ? imgUrl : `${process.env.PUBLIC_URL}/favicon.svg`}
+              className="card-img-top news-img"
+              alt="news"
+            />
+            {source ? (
+              <span
+                className={`badge rounded-pill position-absolute top-0 end-0 m-2 news-source-badge ${
+                  mode === "dark" ? "news-source-badge--dark" : ""
+                }`}
+                style={badgeStyle}
+                title={source}
+              >
+                {source}
+              </span>
+            ) : null}
+          </div>
 
           <div className="card-body d-flex flex-column">
             <h5 className="card-title news-title">{title}</h5>
 
             <p className="card-text news-desc">{description}</p>
 
-            <p className="card-text"><small className="text-body-secondary">By {author} on {date}</small></p>
+            <p className="card-text">
+              <small className="text-body-secondary">
+                By {author} on {date}
+              </small>
+            </p>
 
             <a
               href={newsUrl}

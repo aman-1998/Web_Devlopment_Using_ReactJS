@@ -418,6 +418,7 @@ export class News extends Component {
                 <NewsItem
                   title={element.title}
                   description={element.description}
+                  source={element.source?.name ? element.source.name : "Unknown"}
                   mode={mode}
                   color={color}
                   imgUrl={element.urlToImage}
