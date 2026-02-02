@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import "./App.css";
-import News from "./components/News";
-import Navbar from "./components/Navbar";
-import About from "./components/About";
+import News from "./components/News/News";
+import Navbar from "./components/Navbar/Navbar";
+import About from "./components/About/About";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import PropTypes from "prop-types";
 

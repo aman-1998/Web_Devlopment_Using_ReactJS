@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import NewsItem from "./NewsItem";
-import SpinnerLoading from "./SpinnerLoading";
+import NewsItem from "./NewsItem/NewsItem";
+import SpinnerLoading from "./Spinner/SpinnerLoading";
 
 export class News extends Component {
 
@@ -422,6 +422,8 @@ export class News extends Component {
                   color={color}
                   imgUrl={element.urlToImage}
                   newsUrl={element.url}
+                  author={element.author ? element.author : "Unknown"}
+                  date={new Date(element.publishedAt).toGMTString()}
                 />
               </div>
             ))}

@@ -7,7 +7,7 @@ export class NewsItem extends Component {
   }
 
   render() {
-    let { title, description, mode, color, imgUrl, newsUrl } = this.props;
+    let { title, description, mode, color, imgUrl, newsUrl, author, date } = this.props;
 
     let blue = "#0d6efd";
     let red = "#dc3545";
@@ -44,6 +44,8 @@ export class NewsItem extends Component {
             <h5 className="card-title news-title">{title}</h5>
 
             <p className="card-text news-desc">{description}</p>
+
+            <p className="card-text"><small className="text-body-secondary">By {author} on {date}</small></p>
 
             <a
               href={newsUrl}

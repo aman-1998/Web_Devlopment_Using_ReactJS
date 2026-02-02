@@ -117,6 +117,15 @@ To build (for deployment):
 
 >> npm run build
 
+And then to run app using that build:
+
+>> npx serve -s build
+
+Then the app will be available at:
+
+- Local:    http://localhost:3000      │
+- Network:  http://172.19.144.1:3000 
+
 ---------------------------------------------------------------------------
 
 Your API key is: 988bbb75c65049a6a61c1cb4a9808280
