@@ -37,7 +37,7 @@ export class NewsItem extends Component {
         color: "white",
       };
     }
-    
+
     let badgeStyle;
     if (color === yellow) {
       badgeStyle = {
@@ -94,10 +94,16 @@ export class NewsItem extends Component {
 
             <p className="card-text news-desc">{description}</p>
 
-            <p className="card-text">
-              <small className="text-body-secondary">
-                By {author} on {date}
-              </small>
+            <p
+              className="card-text"
+              style={{
+                fontStyle: "italic",
+                fontSize: "0.8rem",
+                marginTop: "auto",
+                color: mode === "dark" ? "#afafaf" : "#696969",
+              }}
+            >
+              By {author} on {date}
             </p>
 
             <a
