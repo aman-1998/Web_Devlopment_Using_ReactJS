@@ -1,0 +1,91 @@
+# useEffect :
+==============
+
+useEffect is a React Hook used to run side effects in a functional component.
+
+What are side effects?
+
+Things that happen outside rendering, like:
+
+- Fetching data from API
+- Updating document title
+- Setting up event listeners
+- Using timers (setTimeout, setInterval)
+- Interacting with localStorage
+
+=========================================================
+
+Syntax:
+
+import { useEffect } from "react";
+
+useEffect(() => {
+  // code runs here
+}, []);
+
+==========================================================
+
+When does useEffect run ?
+
+It depends on the dependency array ([]).
+
+1️. Run on every render (no dependency array):
+
+useEffect(() => {
+  console.log("Runs every time component renders");
+});
+
+-> Runs after every render.
+
+2️. Run only once (on component mount):
+
+useEffect(() => {
+  console.log("Runs only once when component loads");
+}, []);
+
+-> Runs whenever the component mounts.
+
+3️. Run when a specific value changes :
+
+useEffect(() => {
+  console.log("Runs when count changes");
+}, [count]);
+
+-> Runs whenever count changes.
+
+============================================================
+Example 1: API Fetch
+useEffect(() => {
+  fetch("https://api.example.com/users")
+    .then(res => res.json())
+    .then(data => console.log(data));
+}, []);
+
+
+Example 2: Cleanup in useEffect (Very Important)
+
+Used when removing:
+- event listeners
+- timers
+- subscriptions
+
+useEffect(() => {
+  const timer = setInterval(() => {
+    console.log("Running...");
+  }, 1000);
+
+  return () => {
+    clearInterval(timer); // cleanup
+  };
+}, []);
+
+
+-> Cleanup runs when component unmounts.
+
+=============================================================
+
+In one line:
+
+useEffect lets you run code after rendering and control when it runs 
+using dependencies.
+

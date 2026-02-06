@@ -1,6 +1,10 @@
-import React from "react";
+import React, { useEffect } from "react";
 
 export default function About(props) {
+
+  useEffect(() => {
+    document.title = "About - News Hunt";
+  }, []);
 
   let blue = "#0d6efd";
   let red = "#dc3545";

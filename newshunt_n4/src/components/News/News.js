@@ -320,6 +320,9 @@ export class News extends Component {
       loading: false,
       page: 1,
     };
+
+    document.title = `${this.props.category.charAt(0).toUpperCase() +
+      this.props.category.slice(1)} - NewsHunt`;
   }
 
   totalNumberOfPages = 0;
