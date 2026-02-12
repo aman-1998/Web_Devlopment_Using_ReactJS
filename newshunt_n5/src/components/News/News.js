@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import NewsItem from "./NewsItem/NewsItem";
 import SpinnerLoading from "./Spinner/SpinnerLoading";
+import InfiniteScroll from "react-infinite-scroll-component";
 
 export class News extends Component {
-
   // Dummy Data - comment out when using real API
   /*
   dummyData = {
@@ -310,8 +310,8 @@ export class News extends Component {
           "These monster dividend stocks yielding up to 7.7% are solid buys to generate steady income in 2026.While growth stocks often steal the headlines, ultra-high-yield dividend stocks with a strong track … [+3511 chars]",
       },
     ],
-  };
-  */
+  };*/
+  
 
   constructor(props) {
     super(props);
@@ -321,8 +321,9 @@ export class News extends Component {
       page: 1,
     };
 
-    document.title = `${this.props.category.charAt(0).toUpperCase() +
-      this.props.category.slice(1)} - NewsHunt`;
+    document.title = `${
+      this.props.category.charAt(0).toUpperCase() + this.props.category.slice(1)
+    } - NewsHunt`;
   }
 
   totalNumberOfPages = 0;
@@ -335,12 +336,12 @@ export class News extends Component {
     this.setState({ loading: true });
 
     // Uncomment below code to fetch from real API
-    
+
     let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${page}&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
     let parsedData = await data.json();
-    
+
     // Using Dummy Data - comment out when using real API
     //let parsedData = this.dummyData;
 
@@ -355,39 +356,20 @@ export class News extends Component {
     });
   };
 
-  handleNextButton = () => {
-    if (this.state.page < this.totalNumberOfPages) {
-      this.fetchNews(this.state.page + 1);
-    }
-  };
+  fetchMoreData = async () => {
+    let nextPage = this.state.page + 1;
+    // Uncomment below code to fetch from real API
 
-  handlePreviousButton = () => {
-    if (this.state.page > 1) {
-      this.fetchNews(this.state.page - 1);
-    }
-  };
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${nextPage}&pageSize=${this.props.pageSize}`;
+    let data = await fetch(url);
+    let parsedData = await data.json();
 
-  handleCustomPage = (page) => {
-    if (page !== this.state.page) {
-      this.fetchNews(page);
-    }
-  };
+    //let parsedData = this.dummyData;
 
-  getPageNumbers = () => {
-    const totalPages = this.totalNumberOfPages;
-    const currentPage = this.state.page;
-
-    if (totalPages <= 5) {
-      return Array.from({ length: totalPages }, (_, i) => i + 1);
-    }
-
-    const startPage = Math.floor((currentPage - 1) / 5) * 5 + 1;
-    const endPage = Math.min(startPage + 4, totalPages);
-
-    return Array.from(
-      { length: endPage - startPage + 1 },
-      (_, i) => startPage + i,
-    );
+    this.setState({
+      articles: this.state.articles.concat(parsedData.articles),
+      page: nextPage,
+    });
   };
 
   render() {
@@ -405,93 +387,48 @@ export class News extends Component {
     };
 
     return (
-      <div className="container my-4">
-        <h2
-          className="mb-4"
-          style={{ color: mode === "dark" ? "white" : "black" }}
-        >
-          Top Headlines - {this.props.category.charAt(0).toUpperCase() +
-            this.props.category.slice(1)}
-        </h2>
-        {this.state.loading && <SpinnerLoading />}
-        <div className="row g-4">
-            {!this.state.loading &&
-              (Array.isArray(this.state.articles) ? this.state.articles : []).map((element) => (
-              <div className="col-md-4 d-flex" key={element.url}>
-                <NewsItem
-                  title={element.title}
-                  description={element.description}
-                  source={element.source?.name ? element.source.name : "Unknown"}
-                  mode={mode}
-                  color={color}
-                  imgUrl={element.urlToImage}
-                  newsUrl={element.url}
-                  author={element.author ? element.author : "Unknown"}
-                  date={new Date(element.publishedAt).toGMTString()}
-                />
-              </div>
-            ))}
+      <>
+        <div className="container my-4">
+          <h2
+            className="mb-4"
+            style={{ color: mode === "dark" ? "white" : "black" }}
+          >
+            Top Headlines -{" "}
+            {this.props.category.charAt(0).toUpperCase() +
+              this.props.category.slice(1)}
+          </h2>
         </div>
 
-        <hr />
-
-        {/* Pagination */}
-        <nav aria-label="Page navigation">
-          <ul className="pagination justify-content-center my-4">
-            {/* Previous */}
-            <li className="page-item">
-              <button
-                className="page-link"
-                disabled={this.state.page <= 1}
-                onClick={this.handlePreviousButton}
-                style={
-                  this.state.page <= 1 ? disabledStyle : { color: "black" }
-                }
-              >
-                &laquo; Previous
-              </button>
-            </li>
-
-            {/* Page Numbers */}
-            {this.getPageNumbers().map((pageNumber) => (
-              <li
-                key={pageNumber}
-                className={`page-item ${
-                  this.state.page === pageNumber ? "active" : ""
-                }`}
-              >
-                <button
-                  className="page-link"
-                  onClick={() => this.handleCustomPage(pageNumber)}
-                  style={
-                    this.state.page === pageNumber
-                      ? PaginationbuttonStyle
-                      : { color: "black" }
-                  }
-                >
-                  {pageNumber}
-                </button>
-              </li>
-            ))}
-
-            {/* Next */}
-            <li className="page-item">
-              <button
-                className="page-link"
-                disabled={this.state.page >= this.totalNumberOfPages}
-                onClick={this.handleNextButton}
-                style={
-                  this.state.page >= this.totalNumberOfPages
-                    ? disabledStyle
-                    : { color: "black" }
-                }
-              >
-                Next &raquo;
-              </button>
-            </li>
-          </ul>
-        </nav>
-      </div>
+        {this.state.loading && <SpinnerLoading />}
+        <InfiniteScroll
+          dataLength={(Array.isArray(this.state.articles) ? this.state.articles : []).length}
+          next={this.fetchMoreData}
+          hasMore={this.state.page < this.totalNumberOfPages}
+          loader={<SpinnerLoading />}
+        >
+          <div className="container my-4">
+            <div className="row g-4">
+              {(Array.isArray(this.state.articles) ? this.state.articles : []).map((element) => (
+                <div className="col-md-4 d-flex" key={element.url}>
+                  <NewsItem
+                    title={element.title}
+                    description={element.description}
+                    source={
+                      element.source?.name ? element.source.name : "Unknown"
+                    }
+                    mode={mode}
+                    color={color}
+                    imgUrl={element.urlToImage}
+                    newsUrl={element.url}
+                    author={element.author ? element.author : "Unknown"}
+                    date={new Date(element.publishedAt).toGMTString()}
+                  />
+                </div>
+              ))}
+            </div>
+          </div>
+        </InfiniteScroll>
+      </>
     );
   }
 }

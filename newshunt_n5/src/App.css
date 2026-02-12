@@ -1,0 +1,121 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.btn-close-size {
+  transform: scale(0.7);   /* try 0.6 – 0.8 */
+}
+
+/* DARK MODE arrow */
+.dark-mode .accordion-button::after {
+  filter: invert(1);
+}
+
+/* LIGHT MODE arrow */
+.light-mode .accordion-button::after {
+  /* filter: invert(0); */
+  filter: invert(1);
+}
+
+/* Keep arrow color same when expanded */
+.dark-mode .accordion-button:not(.collapsed)::after {
+  filter: invert(1);
+}
+
+.light-mode .accordion-button:not(.collapsed)::after {
+  /* filter: invert(0); */
+  filter: invert(1);
+}
+
+.palette-box {
+  width: 23px;
+  height: 23px;
+  cursor: pointer;
+  border: 1px solid #ddd;
+}
+
+.palette-box:hover {
+  transform: scale(1.1);
+  border-color: #000;
+}
+
+.news-img {
+  height: 180px;
+  width: 100%;
+  object-fit: cover;
+}
+
+/* FORCE EQUAL TITLE HEIGHT */
+.news-title {
+  display: -webkit-box;
+  line-clamp: 2;   /* EXACTLY 2 LINES */
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* FORCE EQUAL DESCRIPTION HEIGHT */
+.news-desc {
+  display: -webkit-box;
+  line-clamp: 3;   /* EXACTLY 3 LINES */
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.news-card {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.news-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.75);
+}
+
+.news-source-badge {
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 0.9rem;
+  padding: 0.45rem 0.75rem;
+}
+
+.news-source-badge--dark {
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+
